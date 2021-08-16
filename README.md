@@ -22,14 +22,6 @@ Papildomi šaltiniai
 -   Apie HTTP evoliuciją: <https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP>
 -   OSI modelis: <https://www.youtube.com/watch?v=7IS7gigunyI>
 
-Užduotys
-
-1. Pirkinių sąrašas (TBD.)
-
-Reikalavimai:
-
--   Atvaizduoti visos savaitės pirkinių sąrašą.
-
 ## 1.2
 
 Temos
