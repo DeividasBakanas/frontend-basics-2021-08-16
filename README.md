@@ -16,8 +16,8 @@ Temos
 
 Pagrininiai šaltiniai
 
-- Getting started with the Web <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web>
-- HTML introduction <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started>
+-   Getting started with the Web <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web>
+-   HTML introduction <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started>
 
 Papildomi šaltiniai
 
@@ -31,11 +31,32 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Paskaitų repozitorijos Github apžvalga.
+-   HTML failų koduotės (encoding).
+-   HTML antraštės.
+-   Nuorodos internete (puslapių, HTML failų, paveikslėlių, ...).
+-   Kodo komentarai.
+-   HTML validavimas (alt, pavyzdys).
+-   Specialių simbolių naudojimas HTML dokumentuose.
+-   Tuščių simbolių (whitespace) traktavimas HTML.
+-   HTML sąrašai.
+
+Pagrindiniai šaltiniai
+
+-   Charsets in HTML <https://www.w3schools.com/html/html_charset.asp>
+-   Headings <https://www.w3schools.com/html/html_headings.asp>
+-   Links <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks>
+-   Text fundamentals <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals>
+-   HTML comments <https://www.w3schools.com/html/html_comments.asp>
+-   HTML validator <https://validator.w3.org/>
 
 Papildomi šaltiniai
 
--   ...
+-   Lorem Ipsum - Atsitiktinio teksto generavimui <https://www.lipsum.com/feed/html>
+
+Užduotis:
+
+-   Savaitės valgiaraštis.
 
 ## 1.3
 
