@@ -14,6 +14,11 @@ Temos
 -   Bazinės technologijos
 -   HTML įvadas (elemento struktūra, dokumento struktūra)
 
+Pagrininiai šaltiniai
+
+- Getting started with the Web <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web>
+- HTML introduction <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started>
+
 Papildomi šaltiniai
 
 -   How the Web works <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works>
