@@ -7,6 +7,11 @@
 -   **CTRL + X** - iškirpti (cut).
 -   **CTRL + V** - įklijuoti (paste).
 -   **ALT + SHIFT** - pakeičia kalbą.
+-   **CTRL + Z** - grįžti veiksmu atgal.
+-   **CTRL + Y** - grįžti veiksmu į priekį.
+-   **ALT + F4** - išjungti delete.
+-   **CTRL + ALT + DELETE** - pagalbinių veiksmų meniu.
+-   **CTRL + SHIFT + ESC** - atidaro task manager'į.
 
 ## Chrome
 
