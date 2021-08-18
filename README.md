@@ -75,9 +75,9 @@ Pagrindiniai šaltiniai:
 Užduotis:
 
 -   Recepto formatavimas
-    -   Nesuformatuotas tekstas - [HTML failo pagrindas](./1 savaitė/1.3/treniruotė/nesuformatuotas-tekstas.html)
-    -   Laukiamas rezultatas - [Rezultato iliustracija](./1 savaitė/1.3/treniruotė/laukiamas-rezultatas.jpg)
-    -   Suformatuotas tekstas (sprendimas) [Galutinis HTML dokumentas](./1 savaitė/1.3/treniruotė/suformatuotas-tekstas.html)
+    -   Nesuformatuotas tekstas - [HTML failo pagrindas](./1%20savaitė/1.3/treniruotė/nesuformatuotas-tekstas.html)
+    -   Laukiamas rezultatas - [Rezultato iliustracija](./1%20savaitė/1.3/treniruotė/laukiamas-rezultatas.jpg)
+    -   Suformatuotas tekstas (sprendimas) [Galutinis HTML dokumentas](./1%20savaitė/1.3/treniruotė/suformatuotas-tekstas.html)
 
 ## 1.4
 
