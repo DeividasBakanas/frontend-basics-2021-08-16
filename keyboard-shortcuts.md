@@ -19,10 +19,11 @@
 
 ## Visual Studio Code
 
--   **CTRL + ALT + F** - suformatuojamas kodas.
+-   **SHIFT + ALT + F**, **CTRL + K, CTRL + D** - suformatuojamas kodas.
 -   **CTRL + S** - užsaugomas kodas.
 -   **CTRL + SPACE** - atidaromi kodo pasiūlymai (auto-complete).
 -   **CTRL + N** - atidaro naują kortelę (new tab).
 -   **CTRL + TAB** - pakeičiama aktyvi kortelė (active tab).
+-   **CTRL + W** - uždaro aktyvią kortelę (close tab).
 -   **ALT + Rodyklė į viršų** - aktyvi eilutė arba pažymėtas tekstas perkeliamas viena eilute į viršų.
 -   **ALT + Rodyklė į apačią** - aktyvi eilutė arba pažymėtas tekstas perkeliamas viena eilute žemyn.
