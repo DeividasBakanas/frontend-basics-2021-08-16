@@ -62,11 +62,22 @@ Užduotis:
 
 Temos
 
--   ...
+-   Užduoties savaitės valgiaraštis peržvelga.
+-   Klaviatūros trumpinių apžvalga [Sąrašas](./keyboard-shortcuts.md).
+-   Užduotis "Recepto formatavimas".
+-   Papildomas nuorodų funkcionalumas (email, phone nuorodos, navigacija į elementą - id atributas).
 
-Papildomi šaltiniai
+Pagrindiniai šaltiniai:
 
--   ...
+-   HTML links <https://www.w3schools.com/html/html_links.asp>
+-   Email links <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#e-mail_links>
+
+Užduotis:
+
+-   Recepto formatavimas
+    -   Nesuformatuotas tekstas - [HTML failo pagrindas](./1.3/treniruotė/nesuformatuotas-tekstas.html)
+    -   Laukiamas rezultatas - [Rezultato iliustracija](./1.3/treniruotė/laukiamas-rezultatas.jpg)
+    -   Suformatuotas tekstas (sprendimas) [Galutinis HTML dokumentas](./1.3/treniruotė/suformatuotas-tekstas.html)
 
 ## 1.4
 
