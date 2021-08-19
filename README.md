@@ -83,11 +83,28 @@ Užduotis:
 
 Temos
 
--   ...
+-   Simbolių užkodavimas nuorodoas adrese.
+-   Papildomas teksto formatavimas HTML.
+
+    -   Aprašomasis sąrašas (desciption list)
+    -   Citavimas (blockquote, q, cite)
+    -   Trumpiniai (abbreviations, abbr)
+    -   Laipsniai ir indeksai (superscript and subscript, sup, sub)
+    -   Kompiuterinio kodo aprašymas (code, var, kbd, samp)
+    -   Laiko vaizdavimas (time)
+
+-   Baziniai formatavimo elementai (b, i, small)
+
+Pagrindiniai šaltiniai
+
+-   Percent encoding <https://www.w3schools.com/tags/ref_urlencode.ASP>
+-   Advanced text formatting <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting>
+-   HTML formatting <https://www.w3schools.com/html/html_formatting.asp>
+-   HTML Quotation <https://www.w3schools.com/html/html_quotation_elements.asp>
 
 Papildomi šaltiniai
 
--   ...
+-   DevTools overview <https://developer.chrome.com/docs/devtools/overview/>
 
 ## 1.5
 
