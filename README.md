@@ -118,18 +118,17 @@ Temos
 -   DevTools (Chrome developer tools) - tęsinys.
 
     -   Stilių bandymai.
-    -   JavaScript konsolė (https://dictionary.cambridge.org/dictionary/english/console).
+    -   JavaScript konsolė (terminas konsolė - <https://dictionary.cambridge.org/dictionary/english/console>).
     -   Į naršyklę parsiųstas kodas.
     -   Interneto srautas.
     -   Puslapio naršyklėje saugoma informacija.
     -   Puslapio kokybės įvertinimas.
 
--   Užduotis - pavogti vėliavą - capture the flag - elementų paieška.
--   Užduotis - meteorologija.
+-   Užduotis - pavogti vėliavą - capture the flag - elementų paieška [sąlyga ir šablonas](./1%20savaitė/1.4/uzduotis-veliava/uzduotis-veliava.md)
 
-Papildomi šaltiniai
+Pagrindiniai šaltiniai
 
--   ...
+-   DevTools overview <https://developer.chrome.com/docs/devtools/overview/>
 
 ## 1.6
 
