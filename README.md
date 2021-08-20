@@ -124,7 +124,7 @@ Temos
     -   Puslapio naršyklėje saugoma informacija.
     -   Puslapio kokybės įvertinimas.
 
--   Užduotis - pavogti vėliavą - capture the flag - elementų paieška [sąlyga ir šablonas](./1%20savaitė/1.4/uzduotis-veliava/uzduotis-veliava.md)
+-   Užduotis - pavogti vėliavą - capture the flag - elementų paieška [sąlyga ir šablonas](./1%20savaitė/1.5/uzduotis-veliava/uzduotis-veliava.md)
 
 Pagrindiniai šaltiniai
 
