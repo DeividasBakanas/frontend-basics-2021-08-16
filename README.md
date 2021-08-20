@@ -83,7 +83,7 @@ Užduotis:
 
 Temos
 
--   Simbolių užkodavimas nuorodoas adrese.
+-   Simbolių užkodavimas nuorodos adrese.
 -   Papildomas teksto formatavimas HTML.
 
     -   Aprašomasis sąrašas (desciption list)
@@ -94,6 +94,11 @@ Temos
     -   Laiko vaizdavimas (time)
 
 -   Baziniai formatavimo elementai (b, i, small)
+
+-   DevTools (Chrome developer tools)
+    -   Kuo skiriasi nuo View Source.
+    -   DOM ir manipuliavimas juo.
+    -   Klaidų paieška. Debugging.
 
 Pagrindiniai šaltiniai
 
@@ -110,7 +115,17 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   DevTools (Chrome developer tools) - tęsinys.
+
+    -   Stilių bandymai.
+    -   JavaScript konsolė (https://dictionary.cambridge.org/dictionary/english/console).
+    -   Į naršyklę parsiųstas kodas.
+    -   Interneto srautas.
+    -   Puslapio naršyklėje saugoma informacija.
+    -   Puslapio kokybės įvertinimas.
+
+-   Užduotis - pavogti vėliavą - capture the flag - elementų paieška.
+-   Užduotis - meteorologija.
 
 Papildomi šaltiniai
 
