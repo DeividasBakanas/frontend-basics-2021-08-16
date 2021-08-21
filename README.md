@@ -135,7 +135,7 @@ Pagrindiniai šaltiniai
 Temos
 
 -   Užduotis - pavogti vėliavą apžvalga. [Sąlyga ir šablonas](./1%20savaitė/1.5/uzduotis-veliava/uzduotis-veliava.md)
--   Užduotis meteorologija. [Sąlyga](./1%20savaitė/1.6/uzduotis-meteorologija/uzduotis-meteorologija-salyga.md) [Šablonai ir tikimasis rezultatas](./1%20savaitė/1.6/uzduotis-meteorologija/).
+-   Užduotis meteorologija. [Sąlyga](./1%20savaitė/1.6/uzduotis-meteorologija/uzduotis-meteorologija-salyga.md). [Šablonai ir tikimasis rezultatas](./1%20savaitė/1.6/uzduotis-meteorologija/).
 -   Užduoties meteorologija gyvas sprendimas.
 
 Namų darbas
