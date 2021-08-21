@@ -13,6 +13,19 @@
 -   **CTRL + ALT + DELETE** - pagalbinių veiksmų meniu.
 -   **CTRL + SHIFT + ESC** - atidaro task manager'į.
 
+### Navigavimas tekste ir teksto rengyklėje (text editor)
+
+-   **CTRL + A** - pažymi visą turinį, kurį įmanoma pažymėti.
+-   **CTRL + rodyklė (kairėn, dešinėn)** - peršoka žodį.
+-   **CTRL + SHIFT + rodyklė (kairėn, dešinėn)** - pažymi žodį.
+-   **Home** - klavišas - nukelia kursorių į eilutės pradžią.
+-   **SHIFT + Home** - pažymi eilutę (jeigu kursorius yra eilutės pabaigoje).
+-   **End** - nukelia kursorių į eilutės pabaigą.
+-   **SHIFT + End** - pažymi eilutę (jeigu kursorius yra eilutės pradžioje).
+-   **CTRL + Home** - nukelia kursorių į dokumento pradžią.
+-   **CTRL + End** - nukelia kursorių į dokumento pabaigą.
+-   **SHIFT + pelės ratukas** - pakeičia aktyvią slinkties juostą į horizontalią (horizontal scroll).
+
 ## Chrome
 
 -   **F5**, **CTRL + R** - refresh - atnaujinamas puslapis.
@@ -38,3 +51,5 @@
 -   **CTRL + /** - užkomentuojamas kodas.
 -   **CTRL + "+"** - padidinamas ekrano vaizdas.
 -   **CTRL + "-"** - sumažinamas ekrano vaizdas.
+-   **ALT + Z** - įjungti / išjungti word-wrap.
+-   **CTRL + SHIFT + V** - markdown'o preview.
