@@ -32,7 +32,7 @@ Laikui nurodyti naudokite time elementą (tiksli data "2021-08-20 03:51").
 
 ## LHMT veiklos sritys
 
-LHMT pavadinimui naudokite santrumpoms skirtą **abrv** elementą.
+LHMT pavadinimui naudokite santrumpoms skirtą **abbv** elementą.
 
 Veiklas aprašykite nerikiuotu sąrašu.
 
