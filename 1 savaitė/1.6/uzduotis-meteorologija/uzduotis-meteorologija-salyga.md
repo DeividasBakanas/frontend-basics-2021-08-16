@@ -2,6 +2,7 @@
 
 Sukurti puslapį iš šešių sekcijų:
 
+-   Logotipas
 -   Navigacija
 -   Vėjai
 -   Sinoptiko komentaras
