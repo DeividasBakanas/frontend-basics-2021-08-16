@@ -134,11 +134,17 @@ Pagrindiniai šaltiniai
 
 Temos
 
--   ...
+-   Užduotis - pavogti vėliavą apžvalga. [Sąlyga ir šablonas](./1%20savaitė/1.5/uzduotis-veliava/uzduotis-veliava.md)
+-   Užduotis meteorologija. [Sąlyga](./1%20savaitė/1.6/uzduotis-meteorologija/uzduotis-meteorologija-salyga.md)
+-   Užduoties meteorologija gyvas sprendimas.
+
+Namų darbas
+
+-   Klavišų kombinacijos (neprivalomas, bet rekomenduojamas). [Sąlygą](./1%20savaitė/1.6/namu-darbas/klavisu-kombinacijos-salyga.md). [Šablonai ir tikimasis rezultatas](./1%20savaitė/1.6/namu-darbas/).
 
 Papildomi šaltiniai
 
--   ...
+-   What are SSL/TLS Certificates? Why do we Need them? and How do they Work? <https://www.youtube.com/watch?v=r1nJT63BFQ0>
 
 ## 2 savaitė
 
