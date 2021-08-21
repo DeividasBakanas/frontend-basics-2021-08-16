@@ -21,6 +21,9 @@
 -   **CTRL + W** - uždaro aktyvią kortelę (close tab).
 -   **CTRL + N** - atidaro naują langą (new window).
 -   **CTRL + TAB** - pakeičiama aktyvi kortelė (active tab).
+-   **CTRL + "+"** - padidinamas ekrano vaizdas.
+-   **CTRL + "-"** - sumažinamas ekrano vaizdas.
+-   **CTRL + 0** - ekrano vaizdas grąžinamas į pradinę padėtį (prieš mažinimą / didinimą).
 
 ## Visual Studio Code
 
@@ -32,3 +35,6 @@
 -   **CTRL + W** - uždaro aktyvią kortelę (close tab).
 -   **ALT + Rodyklė į viršų** - aktyvi eilutė arba pažymėtas tekstas perkeliamas viena eilute į viršų.
 -   **ALT + Rodyklė į apačią** - aktyvi eilutė arba pažymėtas tekstas perkeliamas viena eilute žemyn.
+-   **CTRL + /** - užkomentuojamas kodas.
+-   **CTRL + "+"** - padidinamas ekrano vaizdas.
+-   **CTRL + "-"** - sumažinamas ekrano vaizdas.
