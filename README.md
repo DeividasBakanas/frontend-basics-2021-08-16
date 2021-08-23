@@ -152,17 +152,24 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Užduoties meteorologija problemų aptarimas.
+-   Namų darbo aptarimas.
+-   Praėjusios savaitės turinio apžvalga.
+-   HTML Lentelės
 
-Papildomi šaltiniai
+    -   Paprastos lentelės <https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics#when_should_you_not_use_html_tables>.
+    -   Sudėtingesnės lentelės <https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced>
 
--   ...
+-   Užduotis valgymai _(lentelės edition)_
+    -   [Senasis užduoties kodas](./1%20savaitė/1.2/projektas-maistas)
+    -   [Tikimasis rezultatas](./2%20savait%C4%97/2.1/uzduotis-savaites-valgymai-lentele)
 
 ## 2.2
 
 Temos
 
--   ...
+-   Užduotis valgymai _(lentelės edition)_
+-   Lentelė lentelėje, naudojimo tikslai ir problemos <https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced>
 
 Papildomi šaltiniai
 
