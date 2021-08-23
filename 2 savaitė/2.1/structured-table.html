@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Struktūruota lentelė</title>
+    </head>
+    <body>
+        <h1>Struktūruota lentelė</h1>
+        <table border="2">
+            <caption>Vardai ir amžiai</caption>
+            <!-- thead - table head - duomenų antraštės -->
+            <thead>
+                <!-- tr - table row -->
+                <tr>
+                    <!-- th - table header -->
+                    <th>Vardas</th>
+                    <th>Amžius</th>
+                    <th>Komentaras</th>
+                </tr>
+            </thead>
+            <!-- tbody - table body - rašomi visi duomenys -->
+            <tbody>
+                <tr>
+                    <!-- td - table data -->
+                    <td>Vardas1</td>
+                    <td>2</td>
+                    <td>Komentaras1</td>
+                </tr>
+                <tr>
+                    <!-- td - table data -->
+                    <td colspan="3">Vardas2</td>                    
+                </tr>
+                <tr>
+                    <!-- td - table data -->
+                    <td>Vardas1</td>
+                    <td>2</td>
+                    <td rowspan="3">Komentaras1</td>
+                </tr>
+                <tr>
+                    <!-- td - table data -->
+                    <td>Vardas1</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <!-- td - table data -->
+                    <td>Vardas1</td>
+                    <td>2</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
