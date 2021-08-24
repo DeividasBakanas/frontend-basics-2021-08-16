@@ -175,10 +175,6 @@ Temos
 -   Statinė kodo analizė - VS Code extension’as HTML Hint <https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint>.
 -   Užduotis “Invaziniai žinduoliai”
 -   Puslapis puslapyje - iframe elementas <https://www.w3schools.com/html/html_iframe.asp>, <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe>.
--   HTML dropdown - details, summary elementai. <https://www.w3schools.com/tags/tag_details.asp>, <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details>.
--   Inline stiliai - style atributas <https://www.w3schools.com/tags/att_style.asp>.
-    -   CSS properties sąrašai <https://www.w3schools.com/cssref/>, <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference>.
--   Užduotis "Prekių galerija".
 
 Papildomi šaltiniai
 
@@ -188,7 +184,10 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   HTML dropdown - details, summary elementai. <https://www.w3schools.com/tags/tag_details.asp>, <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details>.
+-   Inline stiliai - style atributas <https://www.w3schools.com/tags/att_style.asp>.
+    -   CSS properties sąrašai <https://www.w3schools.com/cssref/>, <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference>.
+-   Užduotis "Prekių galerija".
 
 Papildomi šaltiniai
 
