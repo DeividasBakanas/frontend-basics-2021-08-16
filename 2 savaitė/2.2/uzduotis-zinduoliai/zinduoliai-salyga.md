@@ -42,11 +42,11 @@ Nuotrauka: <https://upload.wikimedia.org/wikipedia/commons/4/4c/American_mink_1.
 
 Aprašymas: Buvo introdukuota Europoje, kurio natūralus paplitimo arealas Šiaurės Amerikoje, bet netrukus Europoje išplito kaip invazinė rūšis. Lietuvoje ir daugelyje šalių visiškai išstūmė jai biologiškai artimą vietinę europinę audinę. Naikintina.
 
-Wikipedia: <https://lt.wikipedia.org/wiki/Paprastasis_me%C5%A1k%C4%97nas>
+Wikipedia: <https://lt.wikipedia.org/wiki/Kanadin%C4%97_audin%C4%97>
 
 ### Graužikai (Rodentia)
 
-Būrio puslapis: https://lt.wikipedia.org/wiki/Grau%C5%BEikai
+Būrio puslapis: <https://lt.wikipedia.org/wiki/Grau%C5%BEikai>
 
 #### Ondatra (Ondatra zibethica)
 
@@ -54,7 +54,7 @@ Nuotrauka: <https://upload.wikimedia.org/wikipedia/commons/2/27/Ondatra_zibethic
 
 Aprašymas: Invazinė rūšis. Jų natūralus paplitimo arealas Šiaurės Amerikos žemyne. 1954 metais jas introdukavo Europoje, kurios vėliau nesukontroliuojamai išplito.
 
-Wikipedia: <https://lt.wikipedia.org/wiki/Pilkoji_%C5%BEiurk%C4%97>
+Wikipedia: <https://lt.wikipedia.org/wiki/Ondatra>
 
 #### Pilkoji žiurkė (Rattus norvegicus)
 
