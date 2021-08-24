@@ -12,6 +12,7 @@ Sudaryti lentelę pagal pateiktą pavyzdį ir aprašymą.
 
 -   Lotyniškus pavadinimus (būrio ir gyvūno) pabrėžti elementu **em**.
 -   Žinduoliai papildomai turi būti suskirstyti į sekcijas pagal būrį. Turi būti pateikta nuoroda į būrio puslapį Wikipedia.
+-   Gyvūno aprašymas buvo paimtas iš <https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Lietuvos_%C5%BEinduoliai>. Panaudokite **blockquote** elementą šį tekstą pacituoti.
 
 ## Duomenys
 
