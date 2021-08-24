@@ -157,8 +157,8 @@ Temos
 -   Praėjusios savaitės turinio apžvalga.
 -   HTML Lentelės
 
-    -   Paprastos lentelės <https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics#when_should_you_not_use_html_tables>.
-    -   Sudėtingesnės lentelės <https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced>
+    -   Paprastos lentelės <https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics>.
+    -   Sudėtingesnės lentelės <https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced>.
 
 -   Užduotis valgymai _(lentelės edition)_
     -   [Senasis užduoties kodas](./1%20savaitė/1.2/projektas-maistas)
@@ -169,11 +169,19 @@ Temos
 Temos
 
 -   Užduotis valgymai _(lentelės edition)_
--   Lentelė lentelėje, naudojimo tikslai ir problemos <https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced>
+-   Lentelė lentelėje <https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced#nesting_tables>.
+-   Lentelių naudojimo tikslai <https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics#when_should_you_not_use_html_tables>.
+-   Lentelių problemos <https://css-tricks.com/responsive-data-tables/>.
+-   Užduotis “Invaziniai žinduoliai”
+-   Puslapis puslapyje - iframe elementas <https://www.w3schools.com/html/html_iframe.asp>, <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe>.
+-   HTML dropdown - details, summary elementai. <https://www.w3schools.com/tags/tag_details.asp>, <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details>.
+-   Inline stiliai - style atributas <https://www.w3schools.com/tags/att_style.asp>.
+    -   CSS properties sąrašai <https://www.w3schools.com/cssref/>, <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference>.
+-   Užduotis "Prekių galerija".
 
 Papildomi šaltiniai
 
--   ...
+-   "Same origin policy" saugimo mechanizmas <https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy>
 
 ## 2.3
 
