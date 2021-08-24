@@ -172,6 +172,7 @@ Temos
 -   Lentelė lentelėje <https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced#nesting_tables>.
 -   Lentelių naudojimo tikslai <https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics#when_should_you_not_use_html_tables>.
 -   Lentelių problemos <https://css-tricks.com/responsive-data-tables/>.
+-   Statinė kodo analizė - VS Code extension’as HTML Hint <https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint>.
 -   Užduotis “Invaziniai žinduoliai”
 -   Puslapis puslapyje - iframe elementas <https://www.w3schools.com/html/html_iframe.asp>, <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe>.
 -   HTML dropdown - details, summary elementai. <https://www.w3schools.com/tags/tag_details.asp>, <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details>.
