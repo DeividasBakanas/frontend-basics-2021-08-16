@@ -184,14 +184,11 @@ Papildomi šaltiniai
 
 Temos
 
+-   VS Code auto closing išjungimas. [Intrukcija](https://stackoverflow.com/a/49391907)
 -   HTML dropdown - details, summary elementai. <https://www.w3schools.com/tags/tag_details.asp>, <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details>.
 -   Inline stiliai - style atributas <https://www.w3schools.com/tags/att_style.asp>.
     -   CSS properties sąrašai <https://www.w3schools.com/cssref/>, <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference>.
--   Užduotis "Prekių galerija".
-
-Papildomi šaltiniai
-
--   ...
+-   Užduotis "Prekių galerija". [Sąlygą](./2%20savaitė/2.3/uzduotis-prekiu-galerija/prekiu-galerija-salyga.md). [Sprendimas](./2%20savaitė/2.3/uzduotis-prekiu-galerija/.md)
 
 ## 2.4
 
