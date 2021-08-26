@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Input elementas</title>
+    </head>
+    <body>
+        <h1>Input elementas</h1>
+        <h2>Forma method GET</h2>
+        <form action="https://www.barbora.lt/" method="GET">
+            <div>
+                <label>
+                    Adresas:
+                    <input type="text" placeholder="Gatvė, Namo Nr., Miestas" name="address" />
+                </label>
+            </div>
+
+            <div>
+                <label for="pasto-kodas">Pašto kodas:</label>
+                <input type="text" placeholder="LTXXXXX" id="pasto-kodas" name="post-code" />
+                <label for="pasto-kodas"><abbr title="Laukas privalomas">*</abbr></label>
+            </div>
+
+            <button>Pateikti formą</button>
+        </form>
+
+        
+        <h2>Forma method POST</h2>
+        <form action="https://www.barbora.lt/" method="POST">
+            <div>
+                <label>
+                    Adresas:
+                    <input type="text" placeholder="Gatvė, Namo Nr., Miestas" name="address" />
+                </label>
+            </div>
+
+            <div>
+                <label for="pasto-kodas">Pašto kodas:</label>
+                <input type="text" placeholder="LTXXXXX" id="pasto-kodas-1" name="post-code" />
+                <label for="pasto-kodas-1"><abbr title="Laukas privalomas">*</abbr></label>
+            </div>
+
+            <button>Pateikti formą</button>
+        </form>
+
+        <form method="">
+        </form>
+    </body>
+</html>
