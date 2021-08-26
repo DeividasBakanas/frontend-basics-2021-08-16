@@ -13,7 +13,7 @@
             <div>
                 <label>
                     Adresas:
-                    <input type="text" placeholder="Gatvė, Namo Nr., Miestas" name="address" />
+                    <input type="text" placeholder="Gatvė, Namo Nr., Miestas" name="address" value="Pilypo g." />
                 </label>
             </div>
 
@@ -22,11 +22,14 @@
                 <input type="text" placeholder="LTXXXXX" id="pasto-kodas" name="post-code" />
                 <label for="pasto-kodas"><abbr title="Laukas privalomas">*</abbr></label>
             </div>
+            <!-- Slaptažodžius siųsti GET metodu lygu NUSIKALTIMUI prieš gamtą. -->
+            <div>
+                <label>Slaptažodis: <input name="password" type="password"/></label>
+            </div>
 
             <button>Pateikti formą</button>
         </form>
 
-        
         <h2>Forma method POST</h2>
         <form action="https://www.barbora.lt/" method="POST">
             <div>
@@ -38,14 +41,20 @@
 
             <div>
                 <label for="pasto-kodas">Pašto kodas:</label>
-                <input type="text" placeholder="LTXXXXX" id="pasto-kodas-1" name="post-code" />
+                <input type="text" placeholder="LTXXXXX" id="pasto-kodas-1" name="post-code" value="LT" />
                 <label for="pasto-kodas-1"><abbr title="Laukas privalomas">*</abbr></label>
+            </div>
+            <div>
+                <label>
+                    Nusiskundimai:
+                    <!-- `textarea`, kitaip nei `input` neturi `value` atributo, pradinė reikšmė dedama į elemento vidų -->
+                    <textarea name="message" style="resize: vertical;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam maiores perspiciatis eveniet sed tenetur sequi voluptas? Consequatur ut aliquam, eligendi rerum officia autem commodi! Quos doloremque aut reprehenderit quis itaque!
+                    </textarea>
+                </label>
             </div>
 
             <button>Pateikti formą</button>
-        </form>
-
-        <form method="">
         </form>
     </body>
 </html>
