@@ -194,11 +194,34 @@ Temos
 
 Temos
 
--   ...
+-   HTML formos <https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form>
+    -   Formų svarba ir paplitimas (prisijungimas, registracija)
+    -   **input** elementas <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input>
+        -   _type_ atributas (reikšmės _text_, _email_)
+        -   _placeholder_ atributas
+        -   _value_ atributas
+    -   **label** elementas <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label>
+        -   suteikiamas funkcionalumas
+        -   elementas ne viduje
+        -   keletas label elementų vienam input’ui
+    -   **button** elementas <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button>
+    -   **form** elementas <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form>
+        -   **form** atributai _action_ ir _method_ (_get_ ir _post_ - privalumai / trūkumai)
+        -   **input** elemento atributas _name_ ir
+        -   formos duomenų pateikimas į serverį <https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form#active_learning_implementing_our_form_html>
+    -   **textarea** elementas <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea>
+        -   savybės - saugomas didesnės apimties tekstas, ne vienoje eilutėje.
+        -   pradinė reikšmė - elemento viduje.
 
 Papildomi šaltiniai
 
--   ...
+-   HTTP Methods <https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods>
+    -   GET <https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET>
+    -   POST <https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST>
+-   HTTP Status codes <https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
+-   Denial of Service ataka <https://developer.mozilla.org/en-US/docs/Glossary/DOS_attack>
+-   Mažiau detalus HTTP veikimo principas <https://www.youtube.com/watch?v=QghbZkks3Dw&ab_channel=Udacity>
+-   Detalus HTTP veikimo principas <https://www.youtube.com/watch?v=0OrmKCB0UrQ&ab_channel=HusseinNasser>
 
 ## 2.5
 
@@ -208,7 +231,8 @@ Temos
 
 Papildomi šaltiniai
 
--   ...
+-   Regular expression <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions>.
+-   Regular expression playground - Regex101 <https://regex101.com/>.
 
 ## 2.6
 
