@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Kontaktų forma</title>
+    </head>
+    <body>
+        <h1>Kontaktų forma</h1>
+        <form action="./pridavimas.html" method="get">
+            <fieldset>
+                <legend>Kontaktinė informacija</legend>
+                <div>
+                    <label>
+                        Jūsų vardas:
+                        <input type="text" name="name" placeholder="Jūsų vardas" minlength="2" maxlength="50" required />
+                    </label>
+                </div>
+
+                <div>
+                    <label>
+                        Jūsų pavardė:
+                        <input type="text" name="lastname" placeholder="Jūsų pavardė" minlength="2" maxlength="50" required />
+                    </label>
+                </div>
+                <div>
+                    <label>
+                        Telefono numeris:
+                        <input
+                            type="text"
+                            name="phonenumber"
+                            placeholder="Jūsų telefono numeris"
+                            minlength="5"
+                            maxlength="11"
+                            required
+                            pattern="\+?\d+"
+                        />
+                    </label>
+                </div>
+            </fieldset>
+
+            <fieldset>
+                <legend>Užklausa</legend>
+                <div>
+                    <label>
+                        Jūsų žinutė:
+                        <textarea name="message" placeholder="Jūsų žinutė..." minlength="20" maxlength="500" required></textarea>
+                    </label>
+                </div>
+            </fieldset>
+
+            <input type="submit" value="Pateikti" />
+        </form>
+    </body>
+</html>
