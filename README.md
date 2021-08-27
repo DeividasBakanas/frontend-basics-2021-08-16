@@ -227,7 +227,19 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   input type=”submit” / type=”button”
+
+    -   formaction, formmethod atributai
+    -   type=”submit” <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/submit>
+    -   type=”button” <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/button>
+
+-   fieldset ir legend <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset>
+
+-   HTML validacija <https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation>
+    -   required atributas <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/required>
+    -   minlength, maxlength atributai <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/minlength>, <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/maxlength>
+    -   min, max atributai <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/min>, <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/max>
+    -   pattern atributas (regular expression, playground) <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/pattern>
 
 Papildomi šaltiniai
 
