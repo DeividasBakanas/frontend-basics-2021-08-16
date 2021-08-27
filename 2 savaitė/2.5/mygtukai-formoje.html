@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Mygtukai formoje</title>
+    </head>
+    <body>
+        <h1>Mygtukai formoje</h1>
+
+        <form id="forma" action="https://barbora.lt" method="GET">
+            <input type="text" name="duomuo" />
+            <button>Priduoti 1</button>
+            <input type="submit" value="Priduoti 2 (type=submit, į senukus)" formaction="https://senukai.lt" formmethod="GET" />
+            <input type="submit" value="Priduoti ten pat kur forma (type=submit)" />
+            <input type="button" value="Priduoti 3 - nepavyks priduoti be JavaScript (type=button)" />
+        </form>
+
+        <input type="submit" value="Priduoti ten pat kur forma (type=submit) ne formoje" form="forma" />
+    </body>
+</html>

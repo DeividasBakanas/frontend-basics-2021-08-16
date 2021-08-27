@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Validacija</title>
+    </head>
+    <body>
+        <form action="https://barbora.lt" method="GET">
+            <div>
+                <label>
+                    Būtinai užpildyti:
+                    <input type="text" name="butinas" required />
+                </label>
+            </div>
+            <div>
+                <label>
+                    Būtinas vardas:
+                    <!-- minlength, maxlength - teksto simbolių kiekis -->
+                    <input type="text" name="butinas-vardas" minlength="5" maxlength="10" required />
+                </label>
+            </div>
+            <div>
+                <label>
+                    Skaičius:
+                    <!-- min, max - skaičiaus reikšmės dydis -->
+                    <input type="number" name="skaicius" required min="5" max="100" step="5" />
+                </label>
+            </div>
+            <div>
+                Pašto kodas:
+                <!-- pattern - nurodo formatą, kurį turi atitikti pateikta reikšmė. -->
+                <input type="text" name="post-code" required minlength="7" maxlength="7" pattern="LT\d{5}" />
+            </div>
+            <button>Priduoti</button>
+        </form>
+    </body>
+</html>
