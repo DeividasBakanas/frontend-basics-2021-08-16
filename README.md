@@ -240,6 +240,7 @@ Temos
     -   minlength, maxlength atributai <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/minlength>, <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/maxlength>
     -   min, max atributai <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/min>, <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/max>
     -   pattern atributas (regular expression, playground) <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/pattern>
+    -   Užduotis “Kontaktų forma” [Sąlyga](./2%20savaitė/2.5/uzduotis-kontaktu-forma/kontaktu-forma-salyga.md). [Sprenimas](./2%20savaitė/2.5/uzduotis-kontaktu-forma/kontaktu-forma.html).
 
 Papildomi šaltiniai
 
