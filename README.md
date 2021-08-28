@@ -251,11 +251,42 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Bendri formos elementų atributai <https://www.w3schools.com/html/html_form_attributes.asp>
+
+    -   value (pradinė reikšmė) - name (pavadinimas siunčiant į serverį) <https://www.w3schools.com/tags/att_input_value.asp>
+    -   placeholder (tekstas iki vartotojo turinio įvedimo) <https://www.w3schools.com/tags/att_input_placeholder.asp>
+    -   autofocus <https://www.w3schools.com/tags/att_input_autofocus.asp>
+    -   readonly <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/readonly>, <https://www.w3schools.com/tags/att_input_readonly.asp>
+    -   disabled <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/disabled>
+    -   form <https://www.w3schools.com/tags/att_input_form.asp>
+    -   size (panašu į textarea cols) <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/size>, <https://www.w3schools.com/tags/att_input_size.asp>
+    -   autocomplete <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete>, <https://www.w3schools.com/tags/att_input_autocomplete.asp>
+
+-   Input elementų tipai <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input>
+
+    -   Text base **input** elemento tipai
+        -   email <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/email>
+        -   number <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/number>
+        -   tel <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel>
+        -   password <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/password>
+        -   search <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/search>
+        -   url <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/url>
+        -   hidden <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/hidden>
+    -   Datoms ir laikui skirti **input** elemento tipai
+        -   date <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date>
+        -   time <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/time>
+        -   datetime-local <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/datetime-local>
+        -   month <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/month>
+        -   week <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/week>
+    -   Kiti input elemento tipai
+        -   checkbox <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox>
 
 Papildomi šaltiniai
 
--   ...
+-   Regular expression Denial of Service - ReDoS <https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS>
+-   Formų apsaugojimas CAPTCHA
+    -   Apie CAPTCHA <https://lt.wikipedia.org/wiki/CAPTCHA>
+    -   ReCAPTCHA <https://www.google.com/recaptcha/about/>, <https://youtu.be/hMJsCBUBhcY>
 
 ## 3 savaitė
 
