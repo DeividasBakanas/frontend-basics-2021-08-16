@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Text based elementai</title>
+    </head>
+    <body>
+        <h1>Tekstiniu pagrindu sukurti <strong>input</strong> elemento tipai</h1>
+        <form>
+            <!-- type="email" el. paštui skirtas  -->
+            <div>
+                <label>
+                    Email:
+                    <input type="email" name="e-pastas" />
+                </label>
+            </div>
+            <div>
+                <label>
+                    Email (extend):
+                    <input type="email" name="e-pastas-text" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" />
+                </label>
+            </div>
+            <div>
+                <label>
+                    Email (text):
+                    <input type="text" name="e-pastas-text" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" />
+                </label>
+            </div>
+            <div>
+                <label>
+                    Number:
+                    <input type="number" name="numeris" />
+                </label>
+            </div>
+
+            <div>
+                <label>
+                    Telefonas:
+                    <input type="tel" name="telefono-numeris" />
+                </label>
+            </div>
+
+            <div>
+                <label>
+                    Slaptažodis:
+                    <input type="password" name="password" />
+                </label>
+            </div>
+
+            <div>
+                <label>
+                    Paieška:
+                    <input type="search" name="search" />
+                </label>
+            </div>
+
+            <div>
+                <label>
+                    Url:
+                    <input type="url" name="url" />
+                </label>
+            </div>
+
+            <div>
+                <label>
+                    Hidden:
+                    <input type="hidden" name="hidden" value="slapta-nelabai-slapta-reiksme" />
+                </label>
+            </div>
+            <button>Pateikti</button>
+        </form>
+    </body>
+</html>

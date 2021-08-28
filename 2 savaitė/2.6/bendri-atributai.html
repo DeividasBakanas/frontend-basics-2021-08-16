@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Bendri atributai</title>
+    </head>
+    <body>
+        <h1>Bendri atributai</h1>
+
+        <!-- Norint išjungti auto complete funkcionalumą formai - galime atributą autocomplete="off" panaudoti formos elementui.  -->
+        <form id="puiki-forma" autocomplete="off">
+            <!-- Sufokusuoja pasirinktą lauką užkrovus puslapį -->
+            <div>
+                <label>
+                    "autofocus":
+                    <input type="text" name="autofocus" autofocus />
+                </label>
+            </div>
+
+            <!-- 
+                 Neleidžia vartotojui keisi reikšmės,
+                 bet demonstruoja kaip įprastame input'e - galime nusikopijuoti ir pažymėti
+            -->
+            <div>
+                <label>
+                    "readonly":
+                    <input type="text" name="readonly" readonly value="654896546 Bet koks tekstas" />
+                </label>
+            </div>
+
+            <!-- Input elementas tampa išjungtas ir neveiksnus. Nesiunčiamas į serverį.  -->
+            <div>
+                <label>
+                    "disabled":
+                    <input type="text" name="disabled" disabled value="Pradinė reikšmė" />
+                </label>
+            </div>
+            <!-- Nurodo input'o plotį simboliais. Neriboja pagal pateiktą dydį. Geriau naudoti CSS. -->
+            <div>
+                <label>
+                    "size":
+                    <input type="text" name="size" size="7" />
+                </label>
+            </div>
+
+            <!-- 
+                Galime išjungti autocomplete funkcionalumą kokrečiam elementui. 
+                Dažniausiai naudojama, kai auto complete informacija neatitinka konkteksto.
+            -->
+            <div>
+                <label>
+                    "autocomplete":
+                    <input type="text" name="name" autocomplete="off" />
+                </label>
+            </div>
+            <button>Pateikti</button>
+        </form>
+
+        <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque nisi officia excepturi eum id a reiciendis vel corporis illo ad.
+            Repudiandae natus amet aliquid nostrum minus quia fugit, commodi dolorem. Lorem, ipsum dolor sit amet consectetur adipisicing
+            elit. Eaque nisi officia excepturi eum id a reiciendis vel corporis illo ad. Repudiandae natus amet aliquid nostrum minus quia
+            fugit, commodi dolorem. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque nisi officia excepturi eum id a
+            reiciendis vel corporis illo ad. Repudiandae natus amet aliquid nostrum minus quia fugit, commodi dolorem. Lorem, ipsum dolor
+            sit amet consectetur adipisicing elit. Eaque nisi officia excepturi eum id a reiciendis vel corporis illo ad. Repudiandae natus
+            amet aliquid nostrum minus quia fugit, commodi dolorem.
+        </p>
+
+        <!-- Galime prijungti ne formoje esantį formos elementą prie formos. -->
+        <div>
+            <label>
+                "form":
+                <input type="text" name="form" form="puiki-forma" />
+            </label>
+        </div>
+    </body>
+</html>
