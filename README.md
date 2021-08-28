@@ -262,7 +262,7 @@ Temos
     -   size (panašu į textarea cols) <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/size>, <https://www.w3schools.com/tags/att_input_size.asp>
     -   autocomplete <https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete>, <https://www.w3schools.com/tags/att_input_autocomplete.asp>
 
--   Input elementų tipai <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input>
+-   Input elementų tipai <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input>, <https://www.w3schools.com/html/html_form_input_types.asp>
 
     -   Text base **input** elemento tipai
         -   email <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/email>
