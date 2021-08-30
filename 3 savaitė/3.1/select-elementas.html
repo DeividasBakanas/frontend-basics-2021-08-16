@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Select elementas</title>
+    </head>
+    <body>
+        <h1>Select elementas</h1>
+        <form>
+            <div>
+                <label>
+                    Ribotas pasirinkimas:
+                    <select name="select-value">
+                        <option>Pasirinkite</option>
+                        <option value="marke-1" selected>Marke 1</option>
+                        <option value="marke-2">Marke 2</option>
+                        <option value="marke-3">Marke 3</option>
+                        <option value="marke-4">Marke 4</option>
+                        <option value="marke-5">Marke 5</option>
+                        <option value="marke-6">Marke 6</option>
+                    </select>
+                </label>
+            </div>
+            <div>
+                <label>
+                    Ribotas pasirinkimas tarp grupių:
+                    <select name="select-value-with-groups">
+                        <option>Pasirinkite</option>
+                        <optgroup label="Pirmoji grupė">
+                            <option value="marke-1">Marke 1</option>
+                            <option value="marke-2">Marke 2</option>
+                            <option value="marke-3" selected>Marke 3</option>
+                        </optgroup>
+                        <optgroup label="Antroji grupė">
+                            <option value="marke-4">Marke 4</option>
+                            <option value="marke-5">Marke 5</option>
+                            <option value="marke-6">Marke 6</option>
+                        </optgroup>
+                    </select>
+                </label>
+            </div>
+            <button>Pateikt</button>
+        </form>
+    </body>
+</html>
