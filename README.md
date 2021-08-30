@@ -294,11 +294,23 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Input elementų tipai <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input>, <https://www.w3schools.com/html/html_form_input_types.asp>
+
+    -   Kiti input elemento tipai
+        -   radio <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio>
+        -   file <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file>
+    -   Rečiau naudojami input elemento tipai
+        -   color <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/color>
+        -   range <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range>
+    -   Kiti formos elementai
+        -   select <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select>
+        -   datalist <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist>
 
 Papildomi šaltiniai
 
--   ...
+-   ISO 8601 datos formatas <https://en.wikipedia.org/wiki/ISO_8601>
+-   UTC laikas <https://lt.wikipedia.org/wiki/Pasaulinis_koordinuotasis_laikas>
+-   Mime types <https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types>
 
 ## 3.2
 
