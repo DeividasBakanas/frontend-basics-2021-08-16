@@ -316,11 +316,18 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Užduoties "Apmokėjimas" aptarimas / gyvas sprendimas. [Sąlyga ir sprendimai](./3%20savaitė/3.1/uzduotis-apmokejimas).
+-   Praėjusios savaitės apžvalga. [Turinys](./2%20savaitė).
+-   CSS - Cascade Style Sheet <https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS>.
+-   **style** elementas <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style>.
+-   **link** elementas <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link>.
+-   Baziniai CSS properčiai <https://www.w3schools.com/html/html_styles.asp>.
+    -   **background-color** <https://developer.mozilla.org/en-US/docs/Web/CSS/background-color>.
+    -   **color** <https://developer.mozilla.org/en-US/docs/Web/CSS/color>.
 
 Papildomi šaltiniai
 
--   ...
+-   Daugiau apie **datalist** <https://www.jotform.com/blog/html5-datalists-what-you-need-to-know-78024/>.
 
 ## 3.3
 
