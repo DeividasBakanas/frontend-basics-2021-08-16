@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Apmokėjimo forma</title>
+    </head>
+    <body>
+        <h1>Apmokėjimo forma</h1>
+        <p>Privalomi laukai pažymėti <abbr title="privalomas">*</abbr></p>
+
+        <form action="./pridavimas-live.html">
+            <h2>Kontaktinė informacija</h2>
+            <fieldset>
+                <legend>Kreipinys</legend>
+                <div>
+                    <label>
+                        Ponas
+                        <input type="radio" name="title" value="mr" required />
+                    </label>
+                </div>
+                <div>
+                    <label>
+                        <input type="radio" name="title" value="mrs" required />
+                        Ponia
+                    </label>
+                </div>
+                <div>
+                    <label>
+                        <input type="radio" name="title" value="incognito" required />
+                        Nesakysiu
+                    </label>
+                </div>
+            </fieldset>
+            <p>
+                <label>
+                    Vardas:
+                    <abbr title="privalomas">*</abbr>
+                    <input type="text" name="name" minlength="2" maxlength="50" required />
+                </label>
+            </p>
+            <p>
+                <label>
+                    Pavardė:
+                    <abbr title="privalomas">*</abbr>
+                    <input type="text" name="lastname" minlength="2" maxlength="50" required />
+                </label>
+            </p>
+            <p>
+                <label>
+                    El. paštas:
+                    <abbr title="privalomas">*</abbr>
+                    <input type="email" name="email" required />
+                </label>
+            </p>
+            <p>
+                <label>
+                    Slaptažodis:
+                    <abbr title="privalomas">*</abbr>
+                    <input type="password" name="password" minlength="5" required />
+                </label>
+            </p>
+
+            <h2>Apmokėjimo informacija</h2>
+            <p>
+                <label
+                    >Kortelės tipas:
+                    <select name="cardtype">
+                        <option value="visa">Visa</option>
+                        <option value="mc">Mastercard</option>
+                        <option value="amex">American Express</option>
+                    </select>
+                </label>
+            </p>
+            <p>
+                <label>
+                    Kortelės numeris:
+                    <abbr title="privalomas">*</abbr>
+                    <input
+                        type="text"
+                        name="cardnumber"
+                        pattern="^(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14}|3[47][0-9]{13}|3(?:0[0-5]|[68][0-9])[0-9]{11}|6(?:011|5[0-9]{2})[0-9]{12}(?:2131|1800|35\d{3})\d{11})$"
+                        required
+                    />
+                </label>
+            </p>
+            <p>
+                <label>
+                    Galiojimo data:
+                    <abbr title="privalomas">*</abbr>
+                    <em>pateikite mm/dd/yyyy formatu</em>
+                    <input type="date" min="2021-08-31" required />
+                </label>
+            </p>
+
+            <button>Pateikti</button>
+        </form>
+    </body>
+</html>

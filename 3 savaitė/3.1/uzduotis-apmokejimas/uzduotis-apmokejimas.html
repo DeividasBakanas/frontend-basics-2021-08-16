@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Apmokėjimo forma</title>
+    </head>
+
+    <body>
+        <form action="./pridavimas.html" method="post">
+            <h1>Apmokėjimo forma</h1>
+            <p>
+                Privalomi laukai pažymėti <strong><abbr title="privalomas">*</abbr></strong
+                >.
+            </p>
+            <section>
+                <h2>Kontaktinė informacija</h2>
+                <fieldset>
+                    <legend>Kreipinys</legend>
+                    <div>
+                        <label for="title_1">
+                            <input type="radio" id="title_1" name="title" value="mr" required />
+                            Ponas
+                        </label>
+                    </div>
+                    <div>
+                        <label for="title_2">
+                            <input type="radio" id="title_2" name="title" value="mrs" required />
+                            Ponia
+                        </label>
+                    </div>
+                    <div>
+                        <label for="title_3">
+                            <input type="radio" id="title_3" name="title" value="unknown" required />
+                            Nesakysiu
+                        </label>
+                    </div>
+                </fieldset>
+                <p>
+                    <label>
+                        <span>Vardas: </span>
+                        <strong><abbr title="privalomas">*</abbr></strong>
+                        <input type="text" name="name" required minlength="2" maxlength="50" />
+                    </label>
+                </p>
+                <p>
+                    <label>
+                        <span>Pavardė: </span>
+                        <strong><abbr title="privalomas">*</abbr></strong>
+                        <input type="text" name="lastname" required minlength="2" maxlength="50" />
+                    </label>
+                </p>
+                <p>
+                    <label>
+                        <span>El. paštas: </span>
+                        <strong><abbr title="privalomas">*</abbr></strong>
+                        <input type="email" name="email" required />
+                    </label>
+                </p>
+                <p>
+                    <label>
+                        <span>Slaptažodis: </span>
+                        <strong><abbr title="privalomas">*</abbr></strong>
+                        <input type="password" name="password" required minlength="5" />
+                    </label>
+                </p>
+            </section>
+            <section>
+                <h2>Apmokėjimo informacija</h2>
+                <p>
+                    <label>
+                        <span>Kortelės tipas:</span>
+                        <select name="cardtype" required>
+                            <option value="visa">Visa</option>
+                            <option value="mc">Mastercard</option>
+                            <option value="amex">American Express</option>
+                        </select>
+                    </label>
+                </p>
+                <p>
+                    <label>
+                        <span>Kortelės numeris:</span>
+                        <strong><abbr title="privalomas">*</abbr></strong>
+                        <!-- Reguliari išraiška: https://regex101.com/r/uW8mC3/1 -->
+                        <!-- 
+                            Keletas validžių pavyzdžių.
+                            4510123456781234
+                            373342709912345
+                            5410123412344567
+                        -->
+                        <input
+                            type="text"
+                            name="cardnumber"
+                            required
+                            pattern="^(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14}|3[47][0-9]{13}|3(?:0[0-5]|[68][0-9])[0-9]{11}|6(?:011|5[0-9]{2})[0-9]{12}(?:2131|1800|35\d{3})\d{11})$"
+                        />
+                    </label>
+                </p>
+                <p>
+                    <label>
+                        <span>Galiojimo data:</span>
+                        <strong><abbr title="privalomas">*</abbr></strong>
+                        <em>pateikite mm/dd/yyyy formatu</em>
+                        <input type="date" name="expiration" required min="2021-08-28" />
+                    </label>
+                </p>
+            </section>
+            <section>
+                <p><button>Pateikti</button></p>
+            </section>
+        </form>
+    </body>
+</html>
