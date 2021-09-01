@@ -333,11 +333,16 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
-
-Papildomi šaltiniai
-
--   ...
+-   CSS komentarai <https://www.w3schools.com/css/css_comments.asp>
+-   Baziniai CSS properties
+    -   **font-family** <https://developer.mozilla.org/en-US/docs/Web/CSS/font-family>
+    -   **font-size** <https://developer.mozilla.org/en-US/docs/Web/CSS/font-size>
+    -   **text-align** <https://developer.mozilla.org/en-US/docs/Web/CSS/text-align>
+-   Box Model <https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model>, <https://www.w3schools.com/css/css_boxmodel.asp>
+    -   Content - [width](https://developer.mozilla.org/en-US/docs/Web/CSS/width) / [height](https://developer.mozilla.org/en-US/docs/Web/CSS/height)
+    -   padding <https://developer.mozilla.org/en-US/docs/Web/CSS/padding>
+    -   border <https://developer.mozilla.org/en-US/docs/Web/CSS/padding>
+    -   margin <https://developer.mozilla.org/en-US/docs/Web/CSS/margin>
 
 ## 3.4
 
