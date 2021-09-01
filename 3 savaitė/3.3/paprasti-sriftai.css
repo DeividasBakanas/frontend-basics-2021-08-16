@@ -1,0 +1,16 @@
+h1 {
+    font-family: sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 12pt;
+    text-align: right;
+}
+
+h3 {
+    font-family: mano-fontas, sans-serif;
+    text-align: justify;
+}

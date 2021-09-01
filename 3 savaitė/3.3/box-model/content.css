@@ -1,0 +1,29 @@
+#turinys-paprastas {
+    width: 500px;
+    height: 300px;
+    background-color: burlywood;
+}
+
+#turinys-su-paddingu {
+    width: 500px;
+    height: 300px;
+    background-color: burlywood;
+    padding: 20px;
+}
+
+#turinys-su-paddingu-ir-borderiu {
+    width: 500px;
+    height: 300px;
+    background-color: burlywood;
+    padding: 20px;
+    border: 5px solid red;
+}
+
+#turinys-su-paddingu-ir-borderiu-ir-margin {
+    width: 500px;
+    height: 300px;
+    background-color: burlywood;
+    padding: 20px;
+    border: 5px solid red;
+    margin: 30px;
+}

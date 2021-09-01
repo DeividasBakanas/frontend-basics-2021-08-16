@@ -1,0 +1,45 @@
+#deze-padding-bendras {
+    padding: 10px;
+    /*
+        padding-top: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+    */
+}
+
+#deze-padding-specifinis {
+    padding-bottom: 30px;
+    padding-right: 25px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+#deze-padding-bendras-specifiskai {
+    /* Prasideda nuo top ir eina pagal laikrodžio rodyklę. */
+    /* Top */
+    /* Right */
+    /* Bottom */
+    /* Left */
+    padding: 20px 25px 30px 15px;
+}
+
+#deze-padding-bendras-specifiskai-1 {
+    /*
+        padding-top: 20px;
+        padding-right: 0;
+        padding-bottom: 30px;
+        padding-left: 15px;
+    */
+    padding: 20px 0px 30px 15px;
+}
+
+#deze-padding-bendras-specifiskai-2 {
+    /*
+        padding-top: 20px;
+        padding-right: 50px;
+        padding-bottom: 20px;
+        padding-left: 50px;
+    */
+    padding: 20px 50px;
+}

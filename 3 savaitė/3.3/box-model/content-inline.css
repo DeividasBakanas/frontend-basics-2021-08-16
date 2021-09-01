@@ -1,0 +1,69 @@
+#turinys-paprastas {
+    /* width ir height inline elementams neveikia */
+    /* width: 500px;
+    height: 300px; */
+    background-color: burlywood;
+}
+
+#turinys-su-paddingu {
+    /* width ir height inline elementams neveikia */
+    /* width: 500px;
+    height: 300px; */
+    background-color: burlywood;
+    padding: 20px;
+}
+
+#turinys-su-paddingu-ir-borderiu {
+    /* width ir height inline elementams neveikia */
+    /* width: 500px;
+    height: 300px; */
+    background-color: burlywood;
+    padding: 20px;
+    border: 5px solid red;
+}
+
+#turinys-su-paddingu-ir-borderiu-ir-margin {
+    /* width ir height inline elementams neveikia */
+    /* width: 500px;
+    height: 300px; */
+    background-color: burlywood;
+    padding: 20px;
+    border: 5px solid red;
+    margin: 30px;
+}
+
+#turinys-paprastas-2 {
+    /* width ir height inline elementams neveikia */
+    /* width: 500px;
+    height: 300px; */
+    background-color: burlywood;
+}
+
+#turinys-su-paddingu-2 {
+    /* width ir height inline elementams neveikia */
+    /* width: 500px;
+    height: 300px; */
+    background-color: burlywood;
+    padding: 0 20px;
+}
+
+#turinys-su-paddingu-ir-borderiu-2 {
+    /* width ir height inline elementams neveikia */
+    /* width: 500px;
+    height: 300px; */
+    background-color: burlywood;
+    padding: 0 20px;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+}
+
+#turinys-su-paddingu-ir-borderiu-ir-margin-2 {
+    /* width ir height inline elementams neveikia */
+    /* width: 500px;
+    height: 300px; */
+    background-color: burlywood;
+    padding: 0 20px;
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+    margin: 0 30px;
+}
