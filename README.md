@@ -348,11 +348,12 @@ Temos
 
 Temos
 
--   ...
+-   Užduotis "Laiškas" [Sąlyga.](./3%20savaitė/3.4/uzduotis-laiskas/uzduotis-laiskas-salyga.md)[Failai.](./3%20savaitė/3.4/uzduotis-laiskas)
 
 Papildomi šaltiniai
 
--   ...
+-   Block and inline elements <https://www.w3schools.com/html/html_blocks.asp>
+-   Inline elements MDN <https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements>
 
 ## 3.5
 
