@@ -17,7 +17,7 @@ Pagal pateiktą pavyzdį paruošti laiško išdėstymą HTML dokumente.
 
 -   Kreipinyje ir atsisveikinime pateikti vardai turi būti `20px` dydžio
 -   Atsisveikinimo tekstas turi būti sulygiuotas su dešine puse
--   Pasisveikinimo tekstas ir atsisveikinimo tekstas turi būti atitraukti nuo turinio po 25px.
+-   Pasisveikinimo tekstas ir atsisveikinimo tekstas turi būti atitraukti nuo turinio po `25px`.
 
 ### Adresai
 
@@ -29,6 +29,7 @@ Pagal pateiktą pavyzdį paruošti laiško išdėstymą HTML dokumente.
 ## Pastabos
 
 -   Pateikti atitraukimų dydžiai neįskaičiuoja HTML elementams suteikiamų naršyklės stilių (pvz. **p** elementas jau turi atitraukimus). Juos ignoruokite ir pildykite tik papildomais dydžiais.
+-   Visi stiliai turi būti pateikiami atskirame stilių faile.
 
 ## Laiško tekstas
 
