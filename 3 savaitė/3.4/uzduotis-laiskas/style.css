@@ -1,0 +1,29 @@
+#main-container {
+    background-color: lavender;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    max-width: 800px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+#greeting {
+    font-size: 20px;
+}
+
+#content {
+    padding-top: 30px;
+}
+
+#signature {
+    font-size: 20px;
+}
+
+#ending {
+    text-align: end;
+}
+
+#content-sections {
+    text-align: justify;
+    padding: 25px 0;
+}
