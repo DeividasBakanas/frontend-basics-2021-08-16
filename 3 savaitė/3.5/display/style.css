@@ -1,0 +1,66 @@
+#inline em {
+    display: block;
+}
+
+#inline * {
+    width: 100px;
+    height: 100px;
+}
+
+#block * {
+    width: 100px;
+    height: 100px;
+}
+
+#block div,
+#block p {
+    display: inline;
+}
+
+#item-block {
+    display: block;
+    width: 150px;
+    height: 250px;
+    background-color: lemonchiffon;
+    border: 1px solid black;
+}
+
+#none {
+    display: none;
+}
+
+#none * {
+    width: 100px;
+    height: 100px;
+}
+
+#inline-block * {
+    width: 100px;
+    height: 100px;
+}
+
+#inline-block em {
+    display: inline-block;
+    background-color: antiquewhite;
+}
+
+#inline-block-1 div {
+    display: inline-block;
+    background-color: antiquewhite;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+#visibility * {
+    display: block;
+    width: 150px;
+    height: 250px;
+    background-color: lemonchiffon;
+    border: 1px solid black;
+}
+
+#visiblity blockquote {
+    visibility: hidden;
+}

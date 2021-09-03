@@ -1,0 +1,21 @@
+#first-environment,
+#second-environment {
+    width: 800px;
+    height: 800px;
+}
+
+#first-environment {
+    box-sizing: content-box;
+    background-color: lavenderblush;
+    padding: 30px;
+    border: 10px solid green;
+    margin: 10px;
+}
+
+#second-environment {
+    box-sizing: border-box;
+    background-color: lavender;
+    padding: 30px;
+    border: 10px solid green;
+    margin: 10px;
+}
