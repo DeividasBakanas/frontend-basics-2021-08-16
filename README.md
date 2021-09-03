@@ -359,7 +359,11 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Užduoties "Laiškas" aptarimas [Sąlyga.](./3%20savaitė/3.4/uzduotis-laiskas/uzduotis-laiskas-salyga.md)[Failai.](./3%20savaitė/3.4/uzduotis-laiskas)
+-   box-sizing (Box Model tęsinys) <https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing>, <https://www.w3schools.com/css/css3_box-sizing.asp>
+-   display <https://developer.mozilla.org/en-US/docs/Web/CSS/display>, <https://www.w3schools.com/cssref/pr_class_display.asp>
+-   visibility <https://developer.mozilla.org/en-US/docs/Web/CSS/visibility>, <https://www.w3schools.com/cssref/pr_class_visibility.asp>
+-   opacity <https://developer.mozilla.org/en-US/docs/Web/CSS/opacity>, <https://www.w3schools.com/cssref/css3_pr_opacity.asp>
 
 Papildomi šaltiniai
 
