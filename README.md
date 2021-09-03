@@ -365,10 +365,6 @@ Temos
 -   visibility <https://developer.mozilla.org/en-US/docs/Web/CSS/visibility>, <https://www.w3schools.com/cssref/pr_class_visibility.asp>
 -   opacity <https://developer.mozilla.org/en-US/docs/Web/CSS/opacity>, <https://www.w3schools.com/cssref/css3_pr_opacity.asp>
 
-Papildomi šaltiniai
-
--   ...
-
 ## 3.6
 
 Temos
