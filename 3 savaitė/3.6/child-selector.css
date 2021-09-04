@@ -1,0 +1,7 @@
+span {
+    background-color: white;
+}
+
+div > span {
+    background-color: DodgerBlue;
+}

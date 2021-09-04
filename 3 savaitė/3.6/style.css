@@ -32,3 +32,31 @@ a[href] {
     font-size: 20px;
     color: greenyellow;
 }
+
+.element-in-element p span {
+    font-size: 50px;
+}
+
+/* body span {
+    font-size: 60px;
+} */
+
+h2.color-blue {
+    color: blue;
+}
+
+span.color-blue {
+    color: cornflowerblue;
+}
+
+.color-blue {
+    color: blueviolet;
+}
+
+.direct-child p span {
+    background-color: white;
+}
+
+.direct-child p > span {
+    background-color: cornflowerblue;
+}
