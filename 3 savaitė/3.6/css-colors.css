@@ -1,0 +1,36 @@
+body div > div {
+    width: 250px;
+    height: 250px;
+}
+
+#by-name span {
+    color: lightsteelblue;
+}
+
+#by-name div {
+    background-color: lightyellow;
+}
+
+#rgb span {
+    color: rgb(240, 135, 214);
+}
+
+#rgb div {
+    background-color: rgb(216, 130, 31, 0.5);
+}
+
+#hex span {
+    color: #f087d6;
+}
+
+#hex div {
+    background-color: #7d27d2;
+}
+
+#hsl span {
+    color: hsl(65, 100%, 46%);
+}
+
+#hsl div {
+    background-color: hsl(124, 100%, 46%);
+}
