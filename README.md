@@ -369,11 +369,25 @@ Temos
 
 Temos
 
--   ...
+-   Pagrindiniai CSS selector'iai, bent dalį aprašytų praėjome <https://www.w3schools.com/cssref/css_selectors.asp>
+    -   element selector <https://www.w3schools.com/csSref/sel_element.asp>
+    -   **\*** selector <https://www.w3schools.com/cssref/sel_all.asp>
+    -   class selector <https://www.w3schools.com/cssref/sel_class.asp>
+    -   id selector <https://www.w3schools.com/cssref/sel_id.asp>
+    -   attribute selector <https://www.w3schools.com/cssref/sel_attribute.asp>, <https://www.w3schools.com/cssref/sel_attribute_value.asp>
+    -   multiple css selectors usage
+        -   Element class selector <https://www.w3schools.com/cssref/sel_element_class.asp>
+        -   Element comma selector<https://www.w3schools.com/cssref/sel_element_comma.asp>
+        -   Element element selector <https://www.w3schools.com/cssref/sel_element_element.asp>
+    -   direct child selector <https://www.w3schools.com/cssref/sel_element_gt.asp>
+    -   CSS spalvos <https://www.w3schools.com/css/css_colors.asp>
+    -   Užduotis elementų atkūrimas. [Sąlyga.](./3%20savaitė/3.6/uzduotis-elementu-atkurimas/elementu-atkurimas-sąlyga.md) [Šablonas.](./3%20savaitė/3.6/uzduotis-elementu-atkurimas/elementu-atkurimas.html)
 
 Papildomi šaltiniai
 
--   ...
+-   How CSS works - trumpai apie CSS veikimą iš naršyklės perspektyvos <https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works>
+-   Old Microsoft browsers compatibility meta tag <https://stackoverflow.com/a/6771584>
+-   width=device-width meta parinktis <https://www.w3schools.com/css/css_rwd_viewport.asp>
 
 ## 4 savaitė
 
