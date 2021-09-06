@@ -395,11 +395,17 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Užduoties "Elementų atkūrimas" aptarimas. [Sąlyga.](./3%20savaitė/3.6/uzduotis-elementu-atkurimas/elementu-atkurimas-sąlyga.md) [Šablonas.](./3%20savaitė/3.6/uzduotis-elementu-atkurimas/elementu-atkurimas.html)
+-   CSS validatorius <https://jigsaw.w3.org/css-validator/>
+-   CSS vienetai <https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units#lengths>, <https://www.w3schools.com/cssref/css_units.asp>
+    -   Absoliutūs <https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units#absolute_length_units>
+    -   Realityvus <https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units#relative_length_units>
+        -   em
+        -   rem
 
 Papildomi šaltiniai
 
--   ...
+-   rem vs em Units in CSS - <https://www.digitalocean.com/community/tutorials/css-rem-vs-em-units>
 
 ## 4.2
 
