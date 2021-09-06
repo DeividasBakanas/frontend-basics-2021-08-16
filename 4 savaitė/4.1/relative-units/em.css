@@ -1,0 +1,14 @@
+#parent {
+    font-size: 16px;
+}
+
+#parent #child-1 {
+    display: block;
+    font-size: 2.5em;
+    padding: 1em;
+    margin: 1em;
+}
+
+#parent #child-2 {
+    font-size: 5em;
+}
