@@ -406,6 +406,8 @@ Temos
 Papildomi šaltiniai
 
 -   rem vs em Units in CSS - <https://www.digitalocean.com/community/tutorials/css-rem-vs-em-units>
+-   rgba to hexa - <https://kilianvalkhof.com/2016/css-html/css-hexadecimal-colors-with-transparency-a-conversion-tool/>
+-   Web technologijų palaikymas tarp naršyklių - <https://caniuse.com/>
 
 ## 4.2
 
