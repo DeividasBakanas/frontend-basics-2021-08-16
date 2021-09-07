@@ -413,21 +413,31 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   CSS vienetai <https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units#lengths>, <https://www.w3schools.com/cssref/css_units.asp>
+    -   Realityvus (tęsinys) <https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units#relative_length_units>
+        -   ex <https://stackoverflow.com/a/918623>
+        -   ch <https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/>
+        -   vw, vh, vmin, vmax <https://www.sitepoint.com/css-viewport-units-quick-start/>
+        -   percentage (%) <https://developer.mozilla.org/en-US/docs/Web/CSS/percentage>
+-   Paveldimumas CSS <https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance>, <https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance#inheritance>
 
 Papildomi šaltiniai
 
--   ...
+-   Fun with Viewport Units <https://css-tricks.com/fun-viewport-units/>
+-   Inherited CSS properties <https://stackoverflow.com/questions/5612302/which-css-properties-are-inherited>, oficialus šaltinis (informacijos ieškoti stulpelyje `Inherited?` <https://www.w3.org/TR/CSS21/propidx.html>
 
 ## 4.3
 
 Temos
 
--   ...
+-   Stilių pritaikymo tvarka <https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance#understanding_the_cascade>
+    -   Pagal kodo aprašymo eiliškumą <https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance#source_order>
+    -   Pagal selector'iaus specifiškumą <https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance#specificity_2>
+    -   Pagal nurodytą svarbą <https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance#!important>
 
 Papildomi šaltiniai
 
--   ...
+-   Origin of CSS declarations - kokie gali būti stilių failų šaltiniai ir kokia tvarka jie pritaikomi <https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade#origin_of_css_declarations>
 
 ## 4.4
 

@@ -1,0 +1,14 @@
+#ex {
+    height: 25ex;
+    width: 25ex;
+    background-color: darkkhaki;
+    font-size: 20px;
+}
+
+#ch {
+    height: 25ch;
+    width: 25ch;
+    background-color: darkmagenta;
+    font-size: 32px;
+    font-family: monospace;
+}

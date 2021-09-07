@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+.section {
+    height: 100vh;
+    width: 100vw;
+}
+
+.one {
+    background-color: darkmagenta;
+}
+
+.two {
+    background-color: darkorange;
+}
+
+.three {
+    background-color: darksalmon;
+}
+
+.four {
+    background-color: dimgrey;
+}
+
+.min-section {
+    height: 100vmin;
+    width: 100vmin;
+    background-color: floralwhite;
+}
+
+.max-section {
+    height: 100vmax;
+    width: 100vmax;
+    background-color: ghostwhite;
+}

@@ -1,0 +1,44 @@
+.sample-1.parent {
+    width: 500px;
+    height: 500px;
+    background-color: khaki;
+}
+
+.sample-1 .child {
+    width: 50%;
+    height: 80%;
+    background-color: lavenderblush;
+}
+
+.sample-2.parent {
+    width: 500px;
+    height: 500px;
+    background-color: khaki;
+}
+
+.sample-2 .child {
+    max-width: 50%;
+    max-height: 80%;
+    background-color: lavenderblush;
+    width: 100%;
+    height: 100%;
+}
+
+.sample-3.parent {
+    width: 500px;
+    height: 500px;
+    background-color: khaki;
+}
+
+.sample-3 .child {
+    background-color: lavenderblush;
+    width: 100%;
+    height: 100%;
+    padding: 20%;
+}
+
+.sample-3 .sub-child {
+    background-color: lemonchiffon;
+    width: 100%;
+    height: 100%;
+}
