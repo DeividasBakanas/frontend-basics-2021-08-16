@@ -438,6 +438,13 @@ Temos
 Papildomi šaltiniai
 
 -   Origin of CSS declarations - kokie gali būti stilių failų šaltiniai ir kokia tvarka jie pritaikomi <https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade#origin_of_css_declarations>
+-   Idėjos dizainų programavimo pasipraktikavimui <https://www.behance.net/>
+-   CSS flexbox (display: flex) <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>, <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox>
+-   Konceptualus Bentley dizainas <https://www.behance.net/gallery/87986829/What-if-Bentley-website-was-luxurious-Concept>
+
+Namų darbas
+
+-   Pradėti CSS flexbox žaidimą - varlytė <https://flexboxfroggy.com/#lt>
 
 ## 4.4
 
