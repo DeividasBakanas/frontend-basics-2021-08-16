@@ -1,0 +1,56 @@
+/* a - element seletor specifiškumas - 1,
+   [target="_blank"] - attribute selector specifiškumas - 10
+   1 + 10 = 11
+*/
+a[target="_blank"] {
+    color: wheat;
+}
+
+/* Attribute selector - specifiškumas - 10 */
+[target="_blank"] {
+    color: red;
+}
+
+/* Class selector - specifiškumas - 10 */
+.pirma-klase {
+    color: aqua;
+}
+
+/* Id - specifiškumas 100 kategorijoje */
+#pirmas {
+    color: blueviolet;
+}
+
+/* 100 + 100 + 100 = 300 */
+#pirmas #antras #trecias {
+    color: red;
+}
+
+/* 100 */
+#trecias {
+    color: blue;
+}
+
+/* 1 + 100 + 100 + 100 = 300 */
+body #pirmas #antras #trecias {
+    color: green;
+}
+
+body .dar-svarbiau {
+    color: red !important;
+}
+
+/* Specifiškumas - 10 */
+.svarbu {
+    color: brown !important;
+}
+
+/* 
+    <body>
+        <div id="pirmas" class="pirma-klase">
+            <div id="antras">
+                <div id="trecias" style="color: black;"></div>
+            </div>
+        </div>
+    </body>
+ */
