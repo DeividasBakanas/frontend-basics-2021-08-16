@@ -464,8 +464,8 @@ Temos
 
 Treniruotėms
 
-    -   varlytė <https://flexboxfroggy.com/#lt>
-    -   MDN užduotis <https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills>
+-   Varlytė <https://flexboxfroggy.com/#lt>
+-   MDN užduotis <https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills>
 
 ## 4.5
 
