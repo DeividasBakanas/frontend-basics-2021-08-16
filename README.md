@@ -462,8 +462,6 @@ Temos
 -   Reset CSS <https://meyerweb.com/eric/tools/css/reset/>
 -   Būsimos užduoties "Klaidos puslapis" aptarimas [Duomenys.](./4%20savaitė/4.4/uzduotis-klaidos-puslapis)
 
-Papildomi šaltiniai
-
 Treniruotėms
 
     -   varlytė <https://flexboxfroggy.com/#lt>
