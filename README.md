@@ -450,11 +450,24 @@ Namų darbas
 
 Temos
 
--   ...
+-   Dokumento ir puslapio struktūra <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure>
+    -   header <>
+    -   nav <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav>
+    -   main <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main>
+    -   article <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article>
+    -   section <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section>
+    -   aside <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside>
+    -   footer <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer>
+-   CSS flexbox <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>, <https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox>
+-   Reset CSS <https://meyerweb.com/eric/tools/css/reset/>
+-   Būsimos užduoties "Klaidos puslapis" aptarimas [Duomenys.](./4%20savaitė/4.4/uzduotis-klaidos-puslapis)
 
 Papildomi šaltiniai
 
--   ...
+Treniruotėms
+
+    -   varlytė <https://flexboxfroggy.com/#lt>
+    -   MDN užduotis <https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills>
 
 ## 4.5
 

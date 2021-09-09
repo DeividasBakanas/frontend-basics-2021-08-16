@@ -1,0 +1,36 @@
+html,
+body,
+main {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+article {
+    height: 100px;
+    width: 100px;
+}
+
+.first {
+    background-color: darkslateblue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.second {
+    background-color: darkgreen;
+}
+
+.third {
+    background-color: crimson;
+}
