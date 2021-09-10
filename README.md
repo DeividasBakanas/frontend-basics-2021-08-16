@@ -471,11 +471,16 @@ Treniruotėms
 
 Temos
 
--   ...
+-   Visų 7 mėn. mokymo plano aptarimas, struktūra, web development darbo sričių aptarimas.
+-   Užduoties "Klaidos langas" aptarimas [Duomenys.](./4%20savaitė/4.4/uzduotis-klaidos-puslapis)
+-   Savaitės užduoties "Amazon redesign" aptarimas. Dizaino pavyzdys: <https://www.behance.net/gallery/62431121/Amazon-Redesign-concept>
+-   Užduoties "Varlytė" aptarimas <https://flexboxfroggy.com/#lt>
+-   Flex property **align-content** <https://css-tricks.com/almanac/properties/a/align-content/>
 
 Papildomi šaltiniai
 
--   ...
+-   IT darbų arealas <https://www.indeed.com/career-advice/finding-a-job/types-of-it-jobs>
+-   Web development darbų arealas <https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree/web-design-and-development>
 
 ## 4.6
 
@@ -485,7 +490,9 @@ Temos
 
 Papildomi šaltiniai
 
--   ...
+-   flex-basis explained - <https://css-tricks.com/almanac/properties/f/flex-basis/>
+-   flex-grow explained - <https://css-tricks.com/almanac/properties/f/flex-grow/>
+-   flex-shrink explained - <https://css-tricks.com/almanac/properties/f/flex-shrink/>
 
 ## 5 savaitė
 
