@@ -1,0 +1,20 @@
+.hero-section {
+    height: 100vh;
+    background-image: url("https://cdn.motor1.com/images/mgl/Bj9wM/s1/bentley-continental-gt-speed-convertible-front-road.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+
+.hero-section header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 15px;
+}
+
+.hero-section header .burger-container {
+    padding: 10px;
+}
+
+.hero-section header .burger-container svg {
+    fill: white;
+}

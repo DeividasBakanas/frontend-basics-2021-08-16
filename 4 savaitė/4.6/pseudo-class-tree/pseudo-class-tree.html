@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Pseudo klasių taikymas medžio atžvilgiu</title>
+        <style>
+            :root {
+                background-color: aliceblue;
+            }
+
+            div p:first-child {
+                background-color: antiquewhite;
+            }
+
+            div p:nth-child(1) {
+                background-color: burlywood;
+            }
+
+            div p:last-child {
+                background-color: aquamarine;
+            }
+
+            span:only-child {
+                color: cadetblue;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias facilis modi placeat accusamus saepe explicabo est
+                mollitia, numquam perspiciatis libero consequatur corporis recusandae ea tenetur accusantium cum minus autem maxime?
+            </p>
+            <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias facilis modi placeat accusamus saepe explicabo est
+                mollitia, numquam perspiciatis libero consequatur corporis recusandae ea tenetur accusantium cum minus autem maxime?
+            </p>
+            <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias facilis modi placeat accusamus saepe explicabo est
+                mollitia, numquam perspiciatis libero consequatur corporis recusandae ea tenetur accusantium cum minus autem maxime?
+            </p>
+            <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias facilis modi placeat accusamus saepe explicabo est
+                mollitia, numquam perspiciatis libero consequatur corporis recusandae ea tenetur accusantium cum minus autem maxime?
+            </p>
+        </div>
+        <p><span>Only child.</span></p>
+        <p><span>Only child.</span></p>
+    </body>
+</html>

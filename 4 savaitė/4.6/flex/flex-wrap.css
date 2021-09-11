@@ -1,0 +1,10 @@
+body > div {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body > div > div {
+    width: 300px;
+    height: 150px;
+    background-color: darkslateblue;
+}
