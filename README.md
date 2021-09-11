@@ -486,13 +486,21 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Flex tęsinys <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
+    -   Parent elementui
+        -   flex-wrap <https://css-tricks.com/almanac/properties/f/flex-wrap/>
+        -   align-content <https://css-tricks.com/almanac/properties/a/align-content/>
+    -   Child elementui
+        -   flex-shrink <https://css-tricks.com/almanac/properties/f/flex-shrink/>
+        -   align-self <https://css-tricks.com/almanac/properties/a/align-self/>
+-   Media queries <https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries#targeting_media_types>
+-   Pseudo classes <https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes>
+    -   By user action <https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes#user_action_pseudo-classes>
+    -   By DOM tree <https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes#tree-structural_pseudo-classes>
 
 Papildomi šaltiniai
 
--   flex-basis explained - <https://css-tricks.com/almanac/properties/f/flex-basis/>
--   flex-grow explained - <https://css-tricks.com/almanac/properties/f/flex-grow/>
--   flex-shrink explained - <https://css-tricks.com/almanac/properties/f/flex-shrink/>
+-   DOM (Document Object Model) - https://www.w3schools.com/js/js_htmldom.asp
 
 ## 5 savaitė
 
