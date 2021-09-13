@@ -184,7 +184,7 @@ Papildomi šaltiniai
 
 Temos
 
--   VS Code auto closing išjungimas. [Intrukcija](https://stackoverflow.com/a/49391907)
+-   VS Code auto closing išjungimas. [Instrukcija](https://stackoverflow.com/a/49391907)
 -   HTML dropdown - details, summary elementai. <https://www.w3schools.com/tags/tag_details.asp>, <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details>.
 -   Inline stiliai - style atributas <https://www.w3schools.com/tags/att_style.asp>.
     -   CSS properties sąrašai <https://www.w3schools.com/cssref/>, <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference>.
@@ -500,7 +500,7 @@ Temos
 
 Papildomi šaltiniai
 
--   DOM (Document Object Model) - https://www.w3schools.com/js/js_htmldom.asp
+-   DOM (Document Object Model) - <https://www.w3schools.com/js/js_htmldom.asp>
 
 ## 5 savaitė
 
