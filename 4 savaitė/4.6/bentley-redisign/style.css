@@ -1,8 +1,52 @@
+html {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 55px;
+    font-weight: 600;
+    color: white;
+    padding-bottom: 25px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+h2 {
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #212121;
+    padding-bottom: 40px;
+}
+
+p {
+    color: #858585;
+}
+
+button {
+    background-color: white;
+    border-width: 0;
+    border-radius: 4px;
+    padding: 15px 30px;
+    font-weight: 600;
+    color: #325b4c;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #858585;
+    color: white;
+}
+
 .hero-section {
     height: 100vh;
     background-image: url("https://cdn.motor1.com/images/mgl/Bj9wM/s1/bentley-continental-gt-speed-convertible-front-road.jpg");
     background-size: cover;
     background-position: center center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .hero-section header {
@@ -11,10 +55,47 @@
     padding: 20px 15px;
 }
 
-.hero-section header .burger-container {
+.hero-section header .burger-container,
+.hero-section header .search-button {
     padding: 10px;
 }
 
-.hero-section header .burger-container svg {
+.hero-section header .burger-container svg,
+.hero-section header .search-button svg {
     fill: white;
 }
+
+.hero-section section {
+    padding: 0 65px;
+    padding-bottom: 90px;
+}
+
+.text-section {
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.text-section p {
+    max-width: 600px;
+    line-height: 1.75;
+    font-family: system-ui;
+}
+
+.models-list {
+    padding: 0 65px;
+    display: flex;
+}
+
+.models-list .model {
+    flex-basis: 50%;
+    height: 50vh;
+}
+
+/* TODO: Use these photos for blocks. */
+/* https://cdn.drivek.it/configurator-covermobile/cars/gb/$original$/BENTLEY/CONTINENTAL-GT/31649_COUPE-2-DOORS/bentley-continental-gt-2018-cover-mobile.jpg */
+/* https://wallpapercave.com/wp/wp4200636.jpg */

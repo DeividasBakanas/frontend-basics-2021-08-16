@@ -27,3 +27,13 @@ Original usage: <https://bentleyvilnius.lt/>
 ### Burger menu icon
 
 Source: <https://icons8.com/icons/set/hamburger>
+
+### Search menu icon
+
+Source: <https://icons8.com/icons/set/search>
+
+### Car models photos
+
+Continental source: <https://cdn.drivek.it/configurator-covermobile/cars/gb/$original$/BENTLEY/CONTINENTAL-GT/31649_COUPE-2-DOORS/bentley-continental-gt-2018-cover-mobile.jpg>
+
+Mulsanne source: <https://wallpapercave.com/wp/wp4200636.jpg>
