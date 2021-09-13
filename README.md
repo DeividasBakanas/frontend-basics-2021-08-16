@@ -508,11 +508,15 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Kaip Google'inti? [Cheetsheet](./how-to-google.md).
+-   Konceptualus Bentley dizainas <https://www.behance.net/gallery/87986829/What-if-Bentley-website-was-luxurious-Concept>
+    Tęsinys. [Projektas](./4%20savaitė/4.6/bentley-redesign).
 
 Papildomi šaltiniai
 
--   ...
+-   Greitesnis HTML struktūros kūrimas - Emmet <https://codeburst.io/trick-to-write-css-html-100x-faster-5edd8299e600>, <https://blog.greenroots.info/10-vs-code-emmet-tips-to-make-you-more-productive>
+-   Media queries breakpoints <https://getbootstrap.com/docs/4.1/layout/overview/>
+-   Tekstas iš paveikslėlio <https://brandfolder.com/workbench/extract-text-from-image>
 
 ## 5.2
 
