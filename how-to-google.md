@@ -22,4 +22,5 @@ Nors **Google** paieškos variklis dominuoja, nepamirškite, kad yra ir daugiau 
 ### HTML / CSS
 
 -   `html / css raktažodis` mdn
+-   `html / css raktažodis` w3schools
 -   `html element name` tag
