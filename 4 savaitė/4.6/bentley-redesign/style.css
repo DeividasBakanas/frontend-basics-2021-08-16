@@ -17,6 +17,16 @@ h2 {
     letter-spacing: 3px;
     color: #212121;
     padding-bottom: 40px;
+    line-height: 1.25;
+}
+
+h3 {
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-top: 20px;
 }
 
 p {
@@ -31,6 +41,11 @@ button {
     font-weight: 600;
     color: #325b4c;
     cursor: pointer;
+}
+
+button.green {
+    background-color: #325b4c;
+    color: white;
 }
 
 button:hover {
@@ -77,7 +92,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 0 20px;
+    padding: 60px 20px;
 }
 
 .text-section p {
@@ -92,8 +107,50 @@ button:hover {
 }
 
 .models-list .model {
-    flex-basis: 50%;
-    height: 50vh;
+    flex: 1;
+}
+
+.models-list .model img {
+    width: 100%;
+}
+
+.models-list .model:first-child {
+    padding-right: 5px;
+}
+
+.models-list .model:last-child {
+    padding-left: 5px;
+}
+
+.models-list .model {
+    position: relative;
+}
+
+.models-list .model h3 {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+.text-section.configurator button {
+    margin-top: 40px;
+}
+
+@media (max-width: 1024px) {
+    .models-list {
+        flex-direction: column;
+        padding: 0 25px;
+    }
+
+    .models-list .model:first-child {
+        padding-right: 0px;
+        padding-bottom: 5px;
+    }
+
+    .models-list .model:last-child {
+        padding-left: 0px;
+        padding-top: 5px;
+    }
 }
 
 /* TODO: Use these photos for blocks. */
