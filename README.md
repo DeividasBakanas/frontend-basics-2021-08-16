@@ -522,11 +522,20 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Grafikos tipai
+    -   Rastrinė (taškinė) <https://lt.wikipedia.org/wiki/Ta%C5%A1kin%C4%97_grafika>
+    -   Vektorinė (taškinė) <https://flamingoforest.eu/paslaugos/vektorine-grafika/>
+-   Konceptualus Bentley dizainas <https://www.behance.net/gallery/87986829/What-if-Bentley-website-was-luxurious-Concept>
+    Tęsinys. [Projektas](./4%20savaitė/4.6/bentley-redesign).
+-   **picture** elementas <https://www.w3schools.com/tags/tag_picture.asp>, <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture>
 
 Papildomi šaltiniai
 
--   ...
+-   Resize vector images <https://www.iloveimg.com/resize-image/resize-svg>
+-   WebP paveikslėlių formatas <https://developers.google.com/speed/webp>
+-   Rastrinių (taškinių) paveikslėlių optimizavimas - TinyPNG <https://tinypng.com/>
+-   JPG vs. PNG vs. GIF <http://web.simmons.edu/~grabiner/comm244/weekfive/image-formats.html>
+-   JPEG glaudinimas detaliau <https://www.youtube.com/watch?v=Ba89cI9eIg8>
 
 ## 5.3
 
