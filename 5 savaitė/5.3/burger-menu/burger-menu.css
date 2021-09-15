@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+}
+
+header {
+    position: relative;
+}
+
+header section {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+    background-color: azure;
+}
+
+header section svg {
+    padding: 0 10px;
+    cursor: pointer;
+}
+
+nav {
+    display: none;
+    position: absolute;
+    border-bottom: 1px solid black;
+    background-color: white;
+    width: 100%;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: block;
+    height: 50px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: unset;
+
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    padding: 0 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+nav ul li a:active {
+    color: red;
+}
+
+nav ul li:not(:last-child) a {
+    border-bottom: 1px solid rgb(144, 144, 144);
+}
+
+#hidden-checkbox {
+    display: none;
+}
+
+#hidden-checkbox:checked + nav
+/* TODO: Brainstorm. */
+/* header section:hover ~ nav  */
+ {
+    display: block;
+}
