@@ -12,6 +12,8 @@
 -   **ALT + F4** - išjungti delete.
 -   **CTRL + ALT + DELETE** - pagalbinių veiksmų meniu.
 -   **CTRL + SHIFT + ESC** - atidaro task manager'į.
+-   **SHIFT + WINDOWS + S** - Snip and Sketch (ex. snipping tool) tool.
+-   **SHIFT + CMD + 5** - make a screen shot.
 
 ### Navigavimas tekste ir teksto rengyklėje (text editor)
 
