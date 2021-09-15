@@ -541,11 +541,17 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Sudėtingesni kombinatoriai
+    -   \+ (plus) <https://developer.mozilla.org/en-US/docs/Web/CSS/Adjacent_sibling_combinator>
+    -   ~ (tilde) <https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator>
+-   Position <https://developer.mozilla.org/en-US/docs/Web/CSS/position>, <https://www.w3schools.com/css/css_positioning.asp>
+-   `position: sticky` pavyzdys <https://www.w3schools.com/css/tryit.asp?filename=trycss_position_sticky>
+-   Burger Menu gyvas [sprendimas](./5%20savaitė/5.3/burger-menu).
 
 Papildomi šaltiniai
 
--   ...
+-   SVG optimizer <https://www.svgminify.com/>
+-   CSS Selectors (prisiminimui) <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors>
 
 ## 5.4
 
