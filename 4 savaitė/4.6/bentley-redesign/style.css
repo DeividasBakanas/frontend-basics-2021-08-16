@@ -70,6 +70,10 @@ button:hover {
     padding: 20px 15px;
 }
 
+.hero-section header img {
+    height: 50px;
+}
+
 .hero-section header .burger-container,
 .hero-section header .search-button {
     padding: 10px;
@@ -104,6 +108,13 @@ button:hover {
 .models-list {
     padding: 0 65px;
     display: flex;
+    justify-content: center;
+}
+
+.models-list .models-container {
+    max-width: 1800px;
+    display: flex;
+    width: 100%;
 }
 
 .models-list .model {
@@ -138,21 +149,20 @@ button:hover {
 
 @media (max-width: 1024px) {
     .models-list {
-        flex-direction: column;
         padding: 0 25px;
     }
 
-    .models-list .model:first-child {
+    .models-container {
+        flex-direction: column;
+    }
+
+    .models-container .model:first-child {
         padding-right: 0px;
         padding-bottom: 5px;
     }
 
-    .models-list .model:last-child {
+    .models-container .model:last-child {
         padding-left: 0px;
         padding-top: 5px;
     }
 }
-
-/* TODO: Use these photos for blocks. */
-/* https://cdn.drivek.it/configurator-covermobile/cars/gb/$original$/BENTLEY/CONTINENTAL-GT/31649_COUPE-2-DOORS/bentley-continental-gt-2018-cover-mobile.jpg */
-/* https://wallpapercave.com/wp/wp4200636.jpg */

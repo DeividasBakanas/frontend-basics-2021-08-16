@@ -18,7 +18,7 @@
                         />
                     </svg>
                 </div>
-                <img src="https://bentleyvilnius.lt/wp-content/themes/bentley/img/logo3.png" class="logo" alt="Bentley Motors" />
+                <img src="./bentley-logo.svg" class="logo" alt="Bentley Motors" />
                 <div class="search-button">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="#000000" viewBox="0 0 30 30" width="30px" height="30px">
                         <path
@@ -44,13 +44,21 @@
         </article>
         <!-- TODO: Resize photos properly. -->
         <article class="models-list">
-            <div class="model">
-                <img src="./wp4200636.png" alt="Bentley Continental" />
-                <h3>Continental</h3>
-            </div>
-            <div class="model">
-                <img src="./bentley-continental.png" alt="Bentley Mulsanne" />
-                <h3>Mulsanne</h3>
+            <div class="models-container">
+                <div class="model">
+                    <picture>
+                        <source media="(min-width: 768px)" srcset="./wp4200636-920.webp" type="image/webp" />
+                        <img src="./wp4200636.png" alt="Bentley Continental" />
+                    </picture>
+                    <h3>Continental</h3>
+                </div>
+                <div class="model">
+                    <picture>
+                        <source media="(min-width: 768px)" srcset="./bentley-continental-920.webp" type="image/webp" />
+                        <img src="./bentley-continental.png" alt="Bentley Mulsanne" />
+                    </picture>
+                    <h3>Mulsanne</h3>
+                </div>
             </div>
         </article>
         <article class="text-section configurator">
