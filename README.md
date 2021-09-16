@@ -557,11 +557,16 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Picture elementas <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture>
+-   Source elementas <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source>
+-   Konceptualus Bentley dizainas <https://www.behance.net/gallery/87986829/What-if-Bentley-website-was-luxurious-Concept>
+    Tęsinys. [Projektas](./4%20savaitė/4.6/bentley-redesign).
 
 Papildomi šaltiniai
 
--   ...
+-   MIME types <https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types>
+-   SPA (Single-page application) <https://developer.mozilla.org/en-US/docs/Glossary/SPA>
+-   Responsive image <https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images>
 
 ## 5.5
 
