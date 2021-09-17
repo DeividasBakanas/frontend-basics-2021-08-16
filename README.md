@@ -567,6 +567,7 @@ Papildomi šaltiniai
 -   MIME types <https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types>
 -   SPA (Single-page application) <https://developer.mozilla.org/en-US/docs/Glossary/SPA>
 -   Responsive image <https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images>
+-   HTML picture tag in practice — PNG and WEBP formats - <https://medium.com/front-end-weekly/html-picture-tag-in-practice-png-and-webp-formats-5a3fc51b5998>
 
 ## 5.5
 
