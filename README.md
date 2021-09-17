@@ -573,11 +573,18 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Amazon Redesign Features selector [sprendimas](./5%20savaitė/5.5/features-selector)
+-   LinkedIn socialinis tinklas <https://www.linkedin.com/>
+-   Kaip išnaudoti LinkedIn darbo rinkoje?
+-   Kaip įgyti darbdavio pasitikėjimą?
 
 Papildomi šaltiniai
 
--   ...
+-   Six degrees of separation principas <https://en.wikipedia.org/wiki/Six_degrees_of_separation>
+-   Turinio marketingas <https://www.rinkodara.lt/editable-article/id-42/>
+-   Frontend Mentor <https://www.frontendmentor.io/>
+-   Front-end challanges <https://css-tricks.com/front-end-challenges/>
+-   W3schools responsive designs <https://www.w3schools.com/css/css_rwd_templates.asp>
 
 ## 5.6
 
