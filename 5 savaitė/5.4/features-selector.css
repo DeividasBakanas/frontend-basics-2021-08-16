@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+header {
+    height: 50px;
+    background-color: #f6f6f6;
+    display: flex;
+    justify-content: center;
+}
+
+header div {
+    display: flex;
+    align-items: center;
+}
+
+header div a {
+    margin: 0 20px;
+    padding-bottom: 10px;
+}
+
+header div a.active {
+    padding-bottom: 8px;
+    border-bottom: 2px solid #ff9900;
+}
