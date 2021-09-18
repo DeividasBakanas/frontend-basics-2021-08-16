@@ -451,7 +451,7 @@ Namų darbas
 Temos
 
 -   Dokumento ir puslapio struktūra <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure>
-    -   header <>
+    -   header <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header>
     -   nav <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav>
     -   main <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main>
     -   article <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article>
