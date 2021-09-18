@@ -590,11 +590,24 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Kaip įgyti darbdavio pasitikėjimą? (tęsinys)
+-   Kur talpinti kodo pavyzdžius? [Github](https://github.com/).
+-   Git programinė įranga [Git](https://git-scm.com/).
+-   Asmeninis puslapis / portfolio.
+-   Kur taplinti asmeninį puslapį?
+    -   Github pages (paprasčiausia priemonė) <https://pages.github.com/>
+    -   Netlify <https://www.netlify.com/pricing/>
+    -   Heroku <https://www.heroku.com/home>
+-   Kaip sužinoti naujienas (apie technologijas / IT stritį)?
+    -   Naujienlaiškiai <https://thehackernews.com/>
+    -   Blog'ai <https://css-tricks.com/>, <https://web.dev/>
+    -   Medium <https://medium.com/>
 
 Papildomi šaltiniai
 
--   ...
+-   Git Cheat Sheet (komandinės eilutės sąsaja) <https://education.github.com/git-cheat-sheet-education.pdf>
+-   Github pages in action <https://github.com/DeividasBakanas/deividasbakanas.github.io>, <https://deividasbakanas.github.io/>
+-   Free images for commercial use <https://pixabay.com/>
 
 ## 6 savaitė
 
