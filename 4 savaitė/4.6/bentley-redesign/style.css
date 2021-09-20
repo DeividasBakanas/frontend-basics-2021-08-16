@@ -33,6 +33,10 @@ h3 {
     padding-top: 20px;
 }
 
+h4 {
+    text-transform: uppercase;
+}
+
 p {
     color: #858585;
 }
@@ -41,7 +45,8 @@ button {
     background-color: white;
     border-width: 0;
     border-radius: 4px;
-    padding: 15px 30px;
+    padding: 15px 0;
+    width: 180px;
     font-weight: 600;
     color: #325b4c;
     cursor: pointer;
@@ -50,6 +55,8 @@ button {
 button.green {
     background-color: #325b4c;
     color: white;
+    padding: 15px 0;
+    width: 230px;
 }
 
 button:hover {
@@ -160,6 +167,58 @@ button:hover {
     height: 80vh;
 }
 
+.discover-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.discover-section .content-container {
+    max-width: 1200px;
+    padding: 0 50px;
+    width: 100%;
+}
+
+.discover-section .content-container div {
+    display: flex;
+}
+
+.discover-section .content-container h2 {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.discover-section section img {
+    max-width: 100%;
+}
+
+.discover-section section:first-child {
+    padding-right: 5px;
+}
+
+.discover-section section:last-child {
+    padding-left: 5px;
+}
+
+.discover-section section h5 {
+    padding-top: 25px;
+    padding-bottom: 10px;
+    color: #858585;
+}
+
+.discover-section section h4 {
+    color: #212121;
+    font-weight: 600;
+}
+
+.discover-section .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    margin-bottom: 10vh;
+}
+
 @media (max-width: 1024px) {
     .models-list {
         padding: 0 25px;
@@ -176,6 +235,24 @@ button:hover {
 
     .models-container .model:last-child {
         padding-left: 0px;
+        padding-top: 5px;
+    }
+
+    .discover-section .content-container {
+        padding: 0 25px;
+    }
+
+    .discover-section .content-container div {
+        flex-direction: column;
+    }
+
+    .discover-section section:first-child {
+        padding-right: 0;
+        padding-bottom: 5px;
+    }
+
+    .discover-section section:last-child {
+        padding-left: 0;
         padding-top: 5px;
     }
 }
