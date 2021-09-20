@@ -47,3 +47,8 @@ Original usage: <http://www.luxuryfurniturecustom.com/detail.php?id=6464&fid=19&
 
 Source: <https://s3.amazonaws.com/the-drive-staging/message-editor%2F1535734451319-bentleycelebrates100yearswithcentenaryspecificationforall2019models-keyfob.jpg>
 Original usage: <https://www.thedrive.com/news/23286/bentley-celebrates-100-years-with-centenary-specification-for-2019-models>
+
+### Bentley Continental GT 2018 09 image
+
+Source: <https://a-static.besthdwallpaper.com/bentley-continental-gt-2018-09-tapetai-1680x1050-59602_5.jpg>
+Original usage: <https://www.besthdwallpaper.com/bentley/bentley-continental-gt-2018-09-dt_lt-59602.html>
