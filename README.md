@@ -615,11 +615,12 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Konceptualus Bentley dizainas <https://www.behance.net/gallery/87986829/What-if-Bentley-website-was-luxurious-Concept>
+    Tęsinys. [Projektas](./4%20savaitė/4.6/bentley-redesign).
 
 Papildomi šaltiniai
 
--   ...
+-   Github `Hello world` <https://guides.github.com/activities/hello-world/>
 
 ## 6.2
 
