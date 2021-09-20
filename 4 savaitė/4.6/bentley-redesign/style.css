@@ -20,6 +20,10 @@ h2 {
     line-height: 1.25;
 }
 
+h2.white {
+    color: white;
+}
+
 h3 {
     color: white;
     font-size: 20px;
@@ -55,7 +59,7 @@ button:hover {
 
 .hero-section {
     height: 100vh;
-    background-image: url("https://cdn.motor1.com/images/mgl/Bj9wM/s1/bentley-continental-gt-speed-convertible-front-road.jpg");
+    background-image: url("https://s.aolcdn.com/os/ab/_cms/2019/10/11192400/RP-Bentley-Extreme-Silver-Flying-Spur-Monaco-48.jpg");
     background-size: cover;
     background-position: center center;
 
@@ -145,6 +149,15 @@ button:hover {
 
 .text-section.configurator button {
     margin-top: 40px;
+}
+
+.text-section.dealership {
+    background-image: url("http://www.luxuryfurniturecustom.com.img26757.200cdn.com:9898/upfiles/201801/15/1515997460_73.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 10vh 0;
+    height: 80vh;
 }
 
 @media (max-width: 1024px) {
