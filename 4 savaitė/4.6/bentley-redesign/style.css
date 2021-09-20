@@ -219,6 +219,30 @@ button:hover {
     margin-bottom: 10vh;
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    min-height: 80vh;
+    background-color: #1e1e1e;
+}
+
+footer > div {
+    max-width: 1300px;
+    width: 100%;
+    padding: 0 50px;
+}
+
+footer .logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+footer .logo-container img {
+    width: 150px;
+}
+
 @media (max-width: 1024px) {
     .models-list {
         padding: 0 25px;
