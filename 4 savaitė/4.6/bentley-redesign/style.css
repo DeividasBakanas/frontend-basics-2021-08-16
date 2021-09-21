@@ -37,6 +37,13 @@ h4 {
     text-transform: uppercase;
 }
 
+h6 {
+    text-transform: uppercase;
+    color: white;
+    padding-bottom: 20px;
+    font-size: 14px;
+}
+
 p {
     color: #858585;
 }
@@ -222,8 +229,8 @@ button:hover {
 footer {
     display: flex;
     justify-content: center;
-    min-height: 80vh;
     background-color: #1e1e1e;
+    font-weight: 600;
 }
 
 footer > div {
@@ -239,8 +246,51 @@ footer .logo-container {
     height: 20vh;
 }
 
+footer .sections-container {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 2px solid #858585;
+    padding-bottom: 8vh;
+}
+
+footer .sections-container > section {
+    min-width: 238px;
+    padding: 25px 0;
+}
+
 footer .logo-container img {
-    width: 150px;
+    width: 114px;
+}
+
+footer li {
+    padding-bottom: 10px;
+}
+
+footer a {
+    color: #4d4d4d;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer .copyright {
+    display: flex;
+    justify-content: space-between;
+    color: #4d4d4d;
+    font-size: 14px;
+    padding: 8vh 0;
+    flex-wrap: wrap;
+}
+
+footer .copyright span {
+    line-height: 1.5;
+}
+
+footer .copyright :first-child {
+    padding-bottom: 15px;
 }
 
 @media (max-width: 1024px) {
@@ -272,11 +322,66 @@ footer .logo-container img {
 
     .discover-section section:first-child {
         padding-right: 0;
-        padding-bottom: 5px;
+        padding-bottom: 50px;
     }
 
     .discover-section section:last-child {
         padding-left: 0;
-        padding-top: 5px;
+        padding-top: 50px;
+    }
+}
+
+@media (max-width: 576px) {
+    h1 {
+        font-size: 40px;
+        padding-bottom: 40px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    h3 {
+        font-size: 14px;
+    }
+
+    button {
+        font-size: 12px;
+    }
+
+    .hero-section header img {
+        height: 40px;
+    }
+
+    .hero-section section {
+        padding: 0px 20px;
+        padding-bottom: 25px;
+        text-align: center;
+    }
+
+    .hero-section section button {
+        width: 100%;
+        max-width: 380px;
+    }
+
+    .text-section.dealership {
+        margin: 5vh 0;
+    }
+
+    .discover-section .content-container h2 {
+        padding: 40px 0;
+    }
+
+    .discover-section section:first-child {
+        padding-bottom: 25px;
+    }
+
+    footer .sections-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    footer > div {
+        padding: 0 20px;
     }
 }
