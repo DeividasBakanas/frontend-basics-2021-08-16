@@ -626,11 +626,16 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   CSS property `outline` <https://developer.mozilla.org/en-US/docs/Web/CSS/outline>
+-   CSS property `all` <https://developer.mozilla.org/en-US/docs/Web/CSS/all>
+-   Konceptualus Bentley dizainas <https://www.behance.net/gallery/87986829/What-if-Bentley-website-was-luxurious-Concept>
+    Finišas. [Projektas](./4%20savaitė/4.6/bentley-redesign).
 
 Papildomi šaltiniai
 
--   ...
+-   Frontend challanges / personal projects <https://javascript.plainenglish.io/7-websites-to-take-your-front-end-skills-from-1x-to-100x-98c1db53c6d1>
+-   Įkvėpimas portfolio dizainui <https://dev.to/jatinrao/20-developer-portfolios-for-inspiration-2k06>
+-   Kaip konstruoti portfolio dizainą? <https://dev.to/emmabostian/how-to-build-a-great-technical-portfolio-53bb>
 
 ## 6.3
 
