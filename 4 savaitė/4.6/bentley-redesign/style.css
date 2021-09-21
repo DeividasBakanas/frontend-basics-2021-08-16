@@ -33,6 +33,17 @@ h3 {
     padding-top: 20px;
 }
 
+h4 {
+    text-transform: uppercase;
+}
+
+h6 {
+    text-transform: uppercase;
+    color: white;
+    padding-bottom: 20px;
+    font-size: 14px;
+}
+
 p {
     color: #858585;
 }
@@ -41,7 +52,8 @@ button {
     background-color: white;
     border-width: 0;
     border-radius: 4px;
-    padding: 15px 30px;
+    padding: 15px 0;
+    width: 180px;
     font-weight: 600;
     color: #325b4c;
     cursor: pointer;
@@ -50,6 +62,8 @@ button {
 button.green {
     background-color: #325b4c;
     color: white;
+    padding: 15px 0;
+    width: 230px;
 }
 
 button:hover {
@@ -160,6 +174,125 @@ button:hover {
     height: 80vh;
 }
 
+.discover-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.discover-section .content-container {
+    max-width: 1200px;
+    padding: 0 50px;
+    width: 100%;
+}
+
+.discover-section .content-container div {
+    display: flex;
+}
+
+.discover-section .content-container h2 {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.discover-section section img {
+    max-width: 100%;
+}
+
+.discover-section section:first-child {
+    padding-right: 5px;
+}
+
+.discover-section section:last-child {
+    padding-left: 5px;
+}
+
+.discover-section section h5 {
+    padding-top: 25px;
+    padding-bottom: 10px;
+    color: #858585;
+}
+
+.discover-section section h4 {
+    color: #212121;
+    font-weight: 600;
+}
+
+.discover-section .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    margin-bottom: 10vh;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1e1e1e;
+    font-weight: 600;
+}
+
+footer > div {
+    max-width: 1300px;
+    width: 100%;
+    padding: 0 50px;
+}
+
+footer .logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+footer .sections-container {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 2px solid #858585;
+    padding-bottom: 8vh;
+}
+
+footer .sections-container > section {
+    min-width: 238px;
+    padding: 25px 0;
+}
+
+footer .logo-container img {
+    width: 114px;
+}
+
+footer li {
+    padding-bottom: 10px;
+}
+
+footer a {
+    color: #4d4d4d;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer .copyright {
+    display: flex;
+    justify-content: space-between;
+    color: #4d4d4d;
+    font-size: 14px;
+    padding: 8vh 0;
+    flex-wrap: wrap;
+}
+
+footer .copyright span {
+    line-height: 1.5;
+}
+
+footer .copyright :first-child {
+    padding-bottom: 15px;
+}
+
 @media (max-width: 1024px) {
     .models-list {
         padding: 0 25px;
@@ -177,5 +310,78 @@ button:hover {
     .models-container .model:last-child {
         padding-left: 0px;
         padding-top: 5px;
+    }
+
+    .discover-section .content-container {
+        padding: 0 25px;
+    }
+
+    .discover-section .content-container div {
+        flex-direction: column;
+    }
+
+    .discover-section section:first-child {
+        padding-right: 0;
+        padding-bottom: 50px;
+    }
+
+    .discover-section section:last-child {
+        padding-left: 0;
+        padding-top: 50px;
+    }
+}
+
+@media (max-width: 576px) {
+    h1 {
+        font-size: 40px;
+        padding-bottom: 40px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    h3 {
+        font-size: 14px;
+    }
+
+    button {
+        font-size: 12px;
+    }
+
+    .hero-section header img {
+        height: 40px;
+    }
+
+    .hero-section section {
+        padding: 0px 20px;
+        padding-bottom: 25px;
+        text-align: center;
+    }
+
+    .hero-section section button {
+        width: 100%;
+        max-width: 380px;
+    }
+
+    .text-section.dealership {
+        margin: 5vh 0;
+    }
+
+    .discover-section .content-container h2 {
+        padding: 40px 0;
+    }
+
+    .discover-section section:first-child {
+        padding-bottom: 25px;
+    }
+
+    footer .sections-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    footer > div {
+        padding: 0 20px;
     }
 }
