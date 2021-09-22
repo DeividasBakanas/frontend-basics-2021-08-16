@@ -2,6 +2,22 @@ html {
     font-family: sans-serif;
 }
 
+:root {
+    --light-text: #858585;
+    --dark-background: #1e1e1e;
+    --accent-color: #325b4c;
+    --light-background: #f6f6f6;
+    --dark-text: #212121;
+}
+
+:root.dark-theme {
+    --light-text: red;
+    --dark-background: green;
+    --accent-color: blue;
+    --light-background: #000;
+    --dark-text: #325b4c;
+}
+
 h1 {
     font-size: 55px;
     font-weight: 600;
@@ -9,13 +25,14 @@ h1 {
     padding-bottom: 25px;
     text-transform: uppercase;
     letter-spacing: 3px;
+    border: var(--super-border);
 }
 
 h2 {
     font-size: 40px;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: #212121;
+    color: var(--dark-text);
     padding-bottom: 40px;
     line-height: 1.25;
 }
@@ -45,7 +62,7 @@ h6 {
 }
 
 p {
-    color: #858585;
+    color: var(--light-text);
 }
 
 button {
@@ -55,19 +72,19 @@ button {
     padding: 15px 0;
     width: 180px;
     font-weight: 600;
-    color: #325b4c;
+    color: var(--accent-color);
     cursor: pointer;
 }
 
 button.green {
-    background-color: #325b4c;
+    background-color: var(--accent-color);
     color: white;
     padding: 15px 0;
     width: 230px;
 }
 
 button:hover {
-    background-color: #858585;
+    background-color: var(--light-text);
     color: white;
 }
 
@@ -210,11 +227,11 @@ button:hover {
 .discover-section section h5 {
     padding-top: 25px;
     padding-bottom: 10px;
-    color: #858585;
+    color: var(--light-text);
 }
 
 .discover-section section h4 {
-    color: #212121;
+    color: var(--dark-text);
     font-weight: 600;
 }
 
@@ -229,7 +246,7 @@ button:hover {
 footer {
     display: flex;
     justify-content: center;
-    background-color: #1e1e1e;
+    background-color: var(--dark-background);
     font-weight: 600;
 }
 
@@ -249,7 +266,7 @@ footer .logo-container {
 footer .sections-container {
     display: flex;
     flex-wrap: wrap;
-    border-bottom: 2px solid #858585;
+    border-bottom: 2px solid var(--light-text);
     padding-bottom: 8vh;
 }
 

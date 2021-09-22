@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Pseudo elementai</title>
+        <style>
+            /* Add icon for links that open in new tab. */
+            a[target="_blank"]::after {
+                background: transparent url("https://developer.mozilla.org/static/media/external.e091ac5d.svg") 0 0 no-repeat;
+                height: 16px;
+                width: 16px;
+                margin-left: 3px;
+                background-size: 16px;
+                display: inline-block;
+                content: "";
+            }
+
+            /* Add `<` for all links.  */
+            a::before {
+                content: "<";
+                margin-right: 3px;
+            }
+
+            li::marker {
+                content: "©";
+            }
+
+            li::before {
+                content: "-";
+                padding-right: 5px;
+            }
+
+            .paragraph::first-letter {
+                font-size: 50px;
+            }
+
+            .paragraph::first-line {
+                color: red;
+                font-weight: bold;
+            }
+
+            input::placeholder {
+                font-size: 18px;
+                color: red;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements" target="_blank">Nuotolinis šaltinis</a>
+        <a href="https://google.com">Other Link...</a>
+        <ul>
+            <li>List item 1</li>
+            <li>List item 2</li>
+        </ul>
+        <p class="paragraph">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus quam a iste blanditiis amet animi totam, quasi eius excepturi
+            non consectetur nostrum eum? Nihil quasi, cumque vero praesentium minus ipsam?
+        </p>
+        <input type="text" placeholder="Įveskite tekstą..." />
+    </body>
+</html>
