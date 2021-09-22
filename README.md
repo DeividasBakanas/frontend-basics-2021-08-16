@@ -641,11 +641,16 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Pseudo elementai <https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements>
+-   `overflow` <https://developer.mozilla.org/en-US/docs/Web/CSS/overflow>
+-   `text-overflow` <https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow>
+-   Making an ellipsis <https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/>
+-   Custom CSS properties (CSS variables) <https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties>
 
 Papildomi šaltiniai
 
--   ...
+-   At-rules <https://developer.mozilla.org/en-US/docs/Web/CSS/At-rule>
+-   @font-face <https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face>, <https://css-tricks.com/snippets/css/using-font-face/>
 
 ## 6.4
 
