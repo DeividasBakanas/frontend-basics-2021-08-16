@@ -658,10 +658,15 @@ Temos
 
 -   ScreenToGIF <https://www.screentogif.com/>
 -   Patriotinė užduotis. [Sąlyga](https://github.com/DeividasBakanas/frontend-basics-2021-08-16/blob/master/6%20savait%C4%97/6.4/patriotine-uzduotis/patriotine-uzduotis.md). [Wireframe](https://github.com/DeividasBakanas/frontend-basics-2021-08-16/blob/master/6%20savait%C4%97/6.4/patriotine-uzduotis/wireframe.png).
+-   Individualių šriftų įkėlimas <https://www.w3schools.com/css/css3_fonts.asp>, <https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face>
+-   @font-face naudojimas <https://css-tricks.com/snippets/css/using-font-face/>, <https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts>
+-   Nemokamos šriftų platformos <https://www.fontsquirrel.com/>
+-   Online šriftų servisas <https://fonts.google.com/>
 
 Papildomi šaltiniai
 
 -   Inline SVG vs Icon Fonts - CAGEMATCH <https://css-tricks.com/icon-fonts-vs-svg/>
+-   Wireframes gamybai <https://wireframe.cc/>
 
 ## 6.5
 

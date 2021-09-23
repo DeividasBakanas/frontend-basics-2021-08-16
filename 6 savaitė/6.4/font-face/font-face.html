@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Font face</title>
+        <!-- Įkeliame nutolusius šriftų failus iš Google serverio. -->
+        <link
+            href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,900;1,900&display=swap"
+            rel="stylesheet"
+        />
+        <style>
+            /* Įkeliame vietinius šriftų failus. */
+            @font-face {
+                font-family: "my-super-font";
+                font-weight: 100 200;
+                src: url(./AlexBrush-Regular.ttf);
+            }
+
+            @font-face {
+                font-family: "my-super-font";
+                font-weight: 300 400;
+                src: url(./AlexBrush-Regular.ttf);
+            }
+
+            .custom-font {
+                font-family: "my-super-font";
+            }
+
+            .bolder {
+                font-weight: bolder;
+            }
+
+            .roboto {
+                font-family: "Roboto", "Times New Roman", Times, serif;
+            }
+        </style>
+    </head>
+    <body>
+        <p>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio voluptatum vitae dolor, dolorum ut aperiam numquam at,
+            necessitatibus molestias iure deleniti dolorem ab neque accusantium dicta fugiat odit, exercitationem nisi.
+        </p>
+        <p class="custom-font">
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio voluptatum vitae dolor, dolorum ut aperiam numquam at,
+            necessitatibus molestias iure deleniti dolorem ab neque accusantium dicta fugiat odit, exercitationem nisi.
+        </p>
+
+        <p class="custom-font bolder">
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio voluptatum vitae dolor, dolorum ut aperiam numquam at,
+            necessitatibus molestias iure deleniti dolorem ab neque accusantium dicta fugiat odit, exercitationem nisi.
+        </p>
+
+        <p class="roboto">
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio voluptatum vitae dolor, dolorum ut aperiam numquam at,
+            necessitatibus molestias iure deleniti dolorem ab neque accusantium dicta fugiat odit, exercitationem nisi.
+        </p>
+    </body>
+</html>
