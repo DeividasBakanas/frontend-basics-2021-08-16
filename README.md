@@ -656,11 +656,12 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   ScreenToGIF <https://www.screentogif.com/>
+-   Patriotinė užduotis. [Sąlyga](https://github.com/DeividasBakanas/frontend-basics-2021-08-16/blob/master/6%20savait%C4%97/6.4/patriotine-uzduotis/patriotine-uzduotis.md). [Wireframe](https://github.com/DeividasBakanas/frontend-basics-2021-08-16/blob/master/6%20savait%C4%97/6.4/patriotine-uzduotis/wireframe.png).
 
 Papildomi šaltiniai
 
--   ...
+-   Inline SVG vs Icon Fonts - CAGEMATCH <https://css-tricks.com/icon-fonts-vs-svg/>
 
 ## 6.5
 
