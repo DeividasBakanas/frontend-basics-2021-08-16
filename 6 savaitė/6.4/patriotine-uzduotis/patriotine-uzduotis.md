@@ -2,7 +2,7 @@
 
 ## Sąlyga
 
-Panaudokite media queries ir [Bootstrap breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/#max-width), nustatyti kiekvienam režiui skirtingą spalvą. Spalvas parinkite savo nuožiūra.
+Panaudokite [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries) ir [Bootstrap breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/#max-width), nustatyti kiekvienam režiui skirtingą viso puslapio fono spalvą. Spalvas parinkite savo nuožiūra.
 
 Šias spalvas aprašyti panaudokite [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties).
 
