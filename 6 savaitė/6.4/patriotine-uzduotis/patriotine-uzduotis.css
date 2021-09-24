@@ -1,0 +1,71 @@
+:root {
+    --default-bg-color: azure;
+    --larger-desktops-bg-color: beige;
+    --large-desktops-bg-color: burlywood;
+    --desktops-bg-color: cornflowerblue;
+    --tablets-bg-color: darkcyan;
+    --mobile-bg-color: darkorange;
+
+    --flag-yellow: yellow;
+    --flag-green: green;
+    --flag-red: red;
+}
+
+body {
+    margin: 0;
+    background: var(--default-bg-color);
+}
+
+footer {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    height: 75px;
+    width: 100%;
+}
+
+footer div {
+    flex: 1;
+}
+
+footer div:nth-child(1) {
+    background-color: var(--flag-yellow);
+}
+
+footer div:nth-child(2) {
+    background-color: var(--flag-green);
+}
+
+footer div:nth-child(3) {
+    background-color: var(--flag-red);
+}
+
+@media (max-width: 1400px) {
+    body {
+        background-color: var(--larger-desktops-bg-color);
+    }
+}
+
+@media (max-width: 1200px) {
+    body {
+        background-color: var(--large-desktops-bg-color);
+    }
+}
+
+@media (max-width: 992px) {
+    body {
+        background-color: var(--desktops-bg-color);
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        background-color: var(--tablets-bg-color);
+    }
+}
+
+@media (max-width: 576px) {
+    body {
+        background-color: var(--mobile-bg-color);
+    }
+}

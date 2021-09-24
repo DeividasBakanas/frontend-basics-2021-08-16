@@ -672,21 +672,44 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Alternatyvus šriftų įkėlimas - @import CSS rule <https://www.w3schools.com/cssref/pr_import_rule.asp>, <https://developer.mozilla.org/en-US/docs/Web/CSS/@import>.
+-   Patriotinės užduoties aptarimas ir gyvas sprendimas. [Turinys](./6%20savaitė/6.4/patriotine-uzduotis).
 
 Papildomi šaltiniai
 
--   ...
+-   TechMugė <https://www.techmuge.lt/>
 
 ## 6.6
 
 Temos
 
--   ...
+-   Daugiau apie tekstą (CSS properties):
+    -   oveflow-wrap (word-wrap) <https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap>, <https://www.w3schools.com/cssref/css3_pr_word-wrap.asp>
+    -   word-break <https://developer.mozilla.org/en-US/docs/Web/CSS/word-break>
+    -   writing-mode <https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode>
+    -   text-shadow <https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow>, <https://www.w3schools.com/cssref/css3_pr_text-shadow.asp>
+    -   text-decoration <https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration>
+        -   text-decoration-line <https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line>
+        -   text-decoration-style <https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style>
+        -   text-decoration-color <https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color>
+        -   text-decoration-thickness <https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-thickness>
+    -   font-style <https://developer.mozilla.org/en-US/docs/Web/CSS/font-style>, <https://www.w3schools.com/cssref/pr_font_font-style.asp>
+    -   font-weight <https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight>, <https://www.w3schools.com/cssref/pr_font_weight.asp>
+    -   line-height <https://developer.mozilla.org/en-US/docs/Web/CSS/line-height>, <https://www.w3schools.com/cssref/pr_dim_line-height.asp>
+-   Icon fonts <https://www.pluralsight.com/blog/creative-professional/icon-fonts>, <https://css-tricks.com/icon-fonts-vs-svg/>
+-   Margin Collapsing <https://www.w3schools.com/css/css_margin_collapse.asp>, <https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#margin_collapsing>,<https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing>
+-   CSS gradients <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients>, <https://www.w3schools.com/css/css3_gradients.asp>
+-   Trumpa užduotis (gradientai patriotinei užduočiai)
+-   CSS gradients papildomi įrankiai:
+    -   CSS Gradient <https://cssgradient.io/>
+    -   uiGradients <https://uigradients.com/>
+-   CSS filtrai <https://developer.mozilla.org/en-US/docs/Web/CSS/filter>
 
 Papildomi šaltiniai
 
--   ...
+-   Gradientas kaip sąvoka <https://www.lietuviuzodynas.lt/terminai/Gradientas>
+-   Už Icon fonts <https://css-tricks.com/examples/IconFont/>
+-   Prieš Icon fonts <https://css-tricks.com/icon-fonts-vs-svg/>
 
 ## 7 savaitė
 
