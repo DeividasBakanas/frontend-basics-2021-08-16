@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>CSS gradients</title>
+        <style>
+            .linear-gradient {
+                height: 300px;
+                background: rgb(131, 58, 180);
+                background: linear-gradient(
+                    37deg,
+                    rgba(131, 58, 180, 1) 0%,
+                    rgba(60, 180, 46, 0.3925945378151261) 12%,
+                    rgba(253, 29, 29, 1) 30%,
+                    rgba(71, 253, 33, 1) 37%,
+                    rgba(253, 61, 38, 1) 45%,
+                    rgba(159, 44, 253, 1) 56%,
+                    rgba(54, 253, 124, 1) 74%,
+                    rgba(252, 176, 69, 1) 100%
+                );
+            }
+
+            .radial-gradient {
+                height: 300px;
+                background: rgb(131, 58, 180);
+                background: radial-gradient(
+                    circle,
+                    rgba(131, 58, 180, 1) 0%,
+                    rgba(60, 180, 46, 0.3925945378151261) 12%,
+                    rgba(253, 29, 29, 1) 30%,
+                    rgba(71, 253, 33, 1) 37%,
+                    rgba(253, 61, 38, 1) 45%,
+                    rgba(159, 44, 253, 1) 56%,
+                    rgba(54, 253, 124, 1) 74%,
+                    rgba(252, 176, 69, 1) 100%
+                );
+            }
+        </style>
+    </head>
+    <body>
+        <div class="linear-gradient"></div>
+        <div class="radial-gradient"></div>
+    </body>
+</html>
