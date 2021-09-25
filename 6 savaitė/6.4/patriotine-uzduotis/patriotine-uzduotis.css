@@ -16,6 +16,43 @@ body {
     background: var(--default-bg-color);
 }
 
+.picture-section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.picture-section .picture-container {
+    width: 75%;
+    position: relative;
+}
+
+.picture-section picture {
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.picture-section .picture-container .city-data {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    height: 30px;
+    width: 100%;
+    background-color: crimson;
+    color: white;
+}
+
+.picture-section .picture-container:hover > .city-data.vilnius {
+    display: block;
+}
+
+.picture-section picture img {
+    width: 100%;
+}
+
 footer {
     display: flex;
     position: fixed;
@@ -44,11 +81,19 @@ footer div:nth-child(3) {
     body {
         background-color: var(--larger-desktops-bg-color);
     }
+
+    .picture-section .picture-container:hover .city-data.kaunas {
+        display: block;
+    }
 }
 
 @media (max-width: 1200px) {
     body {
         background-color: var(--large-desktops-bg-color);
+    }
+
+    .picture-section .picture-container:hover > .city-data.klaipeda {
+        display: block;
     }
 }
 
@@ -56,16 +101,28 @@ footer div:nth-child(3) {
     body {
         background-color: var(--desktops-bg-color);
     }
+
+    .picture-section .picture-container:hover > .city-data.siauliai {
+        display: block;
+    }
 }
 
 @media (max-width: 768px) {
     body {
         background-color: var(--tablets-bg-color);
     }
+
+    .picture-section .picture-container:hover > .city-data.panevezys {
+        display: block;
+    }
 }
 
 @media (max-width: 576px) {
     body {
         background-color: var(--mobile-bg-color);
+    }
+
+    .picture-section .picture-container:hover > .city-data.alytus {
+        display: block;
     }
 }
