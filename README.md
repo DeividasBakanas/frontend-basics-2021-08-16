@@ -693,6 +693,7 @@ Temos
         -   text-decoration-style <https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style>
         -   text-decoration-color <https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color>
         -   text-decoration-thickness <https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-thickness>
+    -   text-transform <https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform>
     -   font-style <https://developer.mozilla.org/en-US/docs/Web/CSS/font-style>, <https://www.w3schools.com/cssref/pr_font_font-style.asp>
     -   font-weight <https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight>, <https://www.w3schools.com/cssref/pr_font_weight.asp>
     -   line-height <https://developer.mozilla.org/en-US/docs/Web/CSS/line-height>, <https://www.w3schools.com/cssref/pr_dim_line-height.asp>
@@ -703,7 +704,6 @@ Temos
 -   CSS gradients papildomi įrankiai:
     -   CSS Gradient <https://cssgradient.io/>
     -   uiGradients <https://uigradients.com/>
--   CSS filtrai <https://developer.mozilla.org/en-US/docs/Web/CSS/filter>
 
 Papildomi šaltiniai
 
@@ -717,7 +717,11 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   CSS filtrai <https://developer.mozilla.org/en-US/docs/Web/CSS/filter>
+-   CSS filtrai gyvai <https://css-tricks.com/almanac/properties/f/filter/>
+-   CSS transformacijos <https://www.w3schools.com/css/css3_2dtransforms.asp>, <https://developer.mozilla.org/en-US/docs/Web/CSS/transform>
+-   CSS transformacijos gyvai <https://html-css-js.com/css/generator/transform/>
+-   CSS 3D transformacijos <https://www.w3schools.com/css/css3_3dtransforms.asp>
 
 Papildomi šaltiniai
 
