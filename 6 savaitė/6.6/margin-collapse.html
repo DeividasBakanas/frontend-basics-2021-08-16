@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Margin Collapse</title>
+        <style>
+            .collapse div,
+            .solution-container div {
+                width: 100px;
+                height: 100px;
+            }
+
+            .collapse .first-child {
+                margin-bottom: 30px;
+                background-color: tomato;
+            }
+
+            .collapse .last-child {
+                margin-top: 50px;
+                background-color: thistle;
+            }
+
+            .collapse.flex {
+                display: flex;
+                flex-direction: column;
+            }
+
+            .solution-container .first-child-container {
+                padding-bottom: 30px;
+            }
+
+            .solution-container div.first-child {
+                background-color: tomato;
+            }
+
+            .solution-container .last-child-container {
+                padding-top: 50px;
+            }
+            .solution-container div.last-child {
+                background-color: thistle;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="collapse">
+            <div class="first-child"></div>
+            <div class="last-child"></div>
+        </div>
+        <hr />
+        <div class="collapse">
+            <div class="first-child"></div>
+            Some inline content destroy collapse.
+            <div class="last-child"></div>
+        </div>
+        <hr />
+        <div class="collapse flex">
+            <div class="first-child"></div>
+            <div class="last-child"></div>
+        </div>
+        <hr />
+        <div class="solution-container">
+            <div class="first-child-container">
+                <div class="first-child"></div>
+            </div>
+            <div class="last-child-container">
+                <div class="last-child"></div>
+            </div>
+        </div>
+    </body>
+</html>
