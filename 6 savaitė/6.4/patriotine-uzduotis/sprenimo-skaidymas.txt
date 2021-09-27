@@ -1,0 +1,31 @@
+Panaudokite media queries ir 
+  - Bootstrap breakpoints, +
+  - nustatyti kiekvienam režiui skirtingą spalvą. (Spalvas parinkite savo nuožiūra) +
+  - Šias spalvas aprašyti panaudokite CSS variables.  +
+
+
+
+- Apačioje viewport suformuokite 75px aukščio fiksuotą ruožą +
+- suformuotą iš trijų vienodo pločio zonų, +
+- kurios visą viewport plotį dalinasi į lygias dalis. +
+- Jas nuspalvinkite Lietuvos vėliavos spalvomis (geltona, žalia, raudona).  +
+- Spalvoms panaudokite CSS variables. +
+  
+  
+  
+- Viso puslapio centre įdėkite nuotrauką (75% ekrano pločio),+
+- kuri pagal Bootstrap breakpoints skirtinguose ekranų dydžiuose vaizduotų Lietuvos miestų nuotraukas pagal gyventojų skaičių mažėjančia tvarka +
+  (didžiausiame ekrane, didžiausias miestas).
+  
+  6 nuotraukos: +
+    Vilnius https://g2.dcdn.lt/images/pix/880x460/Xq3r-kqbH4k/vilnius-77965647.jpg
+    Kaunas https://adventures.com/media/20342/s-kaunas-city-panoramic-view-summer-church-architecture-buildings-old-town-lithuania.jpg
+    Klaipėda https://ambertonhotels.com/wp-content/uploads/2018/07/Amberton-Hotel-Klaipeda-25-1-1024x683.jpg
+    Šiauliai https://g2.dcdn.lt/images/pix/880x460/v-PcMFmbtqU/siauliai-82893793.jpg
+    Panevėžys https://g3.dcdn.lt/images/pix/880x550/kt2elZeFFD8/panevezys-86467935.jpg
+    Alytus https://g3.dcdn.lt/images/pix/alytus-78051393.jpg
+  
+  
+Užvedus pelę ant nuotraukos, +
+ nuotraukos plote apačioje +
+ turėtų pasimatyti informacija apie miestą ir jo gyventojų skaičių. +
