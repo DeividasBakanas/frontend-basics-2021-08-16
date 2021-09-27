@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>CSS transitions</title>
+        <style>
+            html,
+            body {
+                height: 100%;
+            }   
+
+            body:hover {
+                transition: background-color 5s;
+                background-color: brown;
+            }
+
+            img {
+                width: 300px;
+                transition: all 2s;
+                /* By default rotate yra 0deg */
+                /* transform: rotate(0deg); */
+            }
+
+            img:hover {
+                transform: rotate(360deg) scale(0.75);
+                /* Vietoj width keitimo galima naudoti scale. */
+                /* width: 200px; */
+            }
+        </style>
+    </head>
+    <body>
+        <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png"
+            alt="Fox on fire!"
+        />
+    </body>
+</html>

@@ -722,10 +722,14 @@ Temos
 -   CSS transformacijos <https://www.w3schools.com/css/css3_2dtransforms.asp>, <https://developer.mozilla.org/en-US/docs/Web/CSS/transform>
 -   CSS transformacijos gyvai <https://html-css-js.com/css/generator/transform/>
 -   CSS 3D transformacijos <https://www.w3schools.com/css/css3_3dtransforms.asp>
+-   box-shadow <https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow>, <https://www.w3schools.com/cssref/css3_pr_box-shadow.asp>
+-   box-shadow gyvai <https://html-css-js.com/css/generator/box-shadow/>
+-   CSS transition <https://developer.mozilla.org/en-US/docs/Web/CSS/transition>, <https://www.w3schools.com/css/css3_transitions.asp>, <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions>
 
 Papildomi šaltiniai
 
--   ...
+-   CSS perėjimų greitis <https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function>
+-   Sudėtingesni 3D transformacijų taikymai <https://css3playground.com/3d-flip-cards/>
 
 ## 7.2
 
