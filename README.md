@@ -735,17 +735,23 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   CSS perėjimai (tęsinys) <https://developer.mozilla.org/en-US/docs/Web/CSS/transition>, <https://www.w3schools.com/css/css3_transitions.asp>, <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions>
+-   CSS modal pavyzdys <https://www.w3schools.com/howto/howto_css_modals.asp>
+-   CSS animacijos <https://www.w3schools.com/css/css3_animations.asp>, <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations>
+-   @keyframes <https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes>
 
 Papildomi šaltiniai
 
--   ...
+-   Sudėtingesnių animacijų pavyzdžiai <https://blog.hubspot.com/website/css-animation-examples>
 
 ## 7.3
 
 Temos
 
--   ...
+-   calc CSS funkcija <https://developer.mozilla.org/en-US/docs/Web/CSS/calc()>
+-   Grid <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout>
+-   CSS grid live samples <https://mozilladevelopers.github.io/playground/css-grid>
+-   Grid garden <https://codepip.com/games/grid-garden/>
 
 Papildomi šaltiniai
 
