@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Animations</title>
+        <style>
+            @keyframes width-animation {
+                0%,
+                100% {
+                    width: 100px;
+                }
+                50% {
+                    width: 200px;
+                }
+            }
+
+            .width-animation-class {
+                height: 200px;
+                background-color: burlywood;
+                animation-name: width-animation;
+                animation-duration: 2s;
+                animation-iteration-count: infinite;
+            }
+
+            @keyframes height-animation {
+                0% {
+                    height: 100px;
+                }
+                50% {
+                    height: 200px;
+                }
+                100% {
+                    height: 100px;
+                }
+            }
+
+            @keyframes red-background {
+                0%,
+                100% {
+                    background-color: tomato;
+                }
+                50% {
+                    background-color: pink;
+                }
+            }
+
+            .height-animation-class {
+                margin-top: 20px;
+                width: 100px;
+                height: 200px;
+                background-color: burlywood;
+                /* Keyframe name. */
+                animation-name: height-animation, red-background;
+                animation-duration: 2s;
+                animation-iteration-count: infinite;
+                animation-direction: reverse;
+            }
+
+            .bottom-fixed {
+                position: fixed;
+                bottom: 0;
+            }
+
+            .flexbox {
+                height: 500px;
+                background-color: cornsilk;
+                display: flex;
+                align-items: center;
+            }
+
+            .running-line-container {
+                overflow: hidden;
+                height: 40px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+            }
+
+            @keyframes running-line {
+                from,
+                to {
+                    transform: translate(0);
+                    background-color: brown;
+                    color: white;
+                }
+                50% {
+                    transform: translate(150%) scale(2);
+                    background-color: coral;
+                    color: green;
+                }
+            }
+
+            .running-line-container div {
+                animation-name: running-line;
+                animation-duration: 10s;
+                animation-iteration-count: infinite;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="width-animation-class"></div>
+        <div class="flexbox">
+            <div class="height-animation-class"></div>
+        </div>
+        <div class="running-line-container">
+            <div>Bėganti eilutė</div>
+        </div>
+        <div class="height-animation-class"></div>
+        <div class="height-animation-class bottom-fixed"></div>
+    </body>
+</html>
