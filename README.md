@@ -749,9 +749,43 @@ Papildomi šaltiniai
 Temos
 
 -   calc CSS funkcija <https://developer.mozilla.org/en-US/docs/Web/CSS/calc()>
+-   Vendor prefix'es <https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix>
 -   Grid <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout>
 -   CSS grid live samples <https://mozilladevelopers.github.io/playground/css-grid>
+-   CSS grid complete guide <https://css-tricks.com/snippets/css/complete-guide-grid/>
 -   Grid garden <https://codepip.com/games/grid-garden/>
+-   Užduotis - Klasikinis layout'as naudojant CSS grid. [Turinys](./7%20savaitė/7.3/uzduotis-klasikinis-layout-grid).
+
+Papildomi šaltiniai
+
+-   AutoPrefixer <https://autoprefixer.github.io/>
+-   Naršyklės varikliukas (browser engine) <https://en.wikipedia.org/wiki/Browser_engine>
+
+## 7.4
+
+Temos
+
+-   ...
+
+Papildomi šaltiniai
+
+-   ...
+
+## 7.5
+
+Temos
+
+-   ...
+
+Papildomi šaltiniai
+
+-   ...
+
+## 7.6
+
+Temos
+
+-   JavaScript pagrindai <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics>
 
 Papildomi šaltiniai
 
