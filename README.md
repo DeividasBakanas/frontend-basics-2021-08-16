@@ -765,11 +765,26 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Grid <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout>
+    -   Grid zones (grid-template-areas) <https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas>
+    -   Trumpa užduotis, klasikinis layout'as - zonos. [Sprendimas](./7%20savaitė/7.4/classic-layout-zones.html).
+    -   Grid gaps <https://developer.mozilla.org/en-US/docs/Web/CSS/gap>
+    -   Grid / cells alignment <https://css-tricks.com/snippets/css/complete-guide-grid/>
+-   Development environment
+    -   Integruotos programavimo aplinkos <https://www.veracode.com/security/integrated-development-environment>
+    -   Projekto aplinkos <https://umbraco.com/knowledge-base/development-environment/>
+    -   Aplinkų stabilumas
+    -   Live aplinkos vartotojų duomenų apsauga
+    -   Aplinkų simuliacija (gyvas pavyzdys)
+        -   Aplinkų atnaujinimas
+        -   Puslapio talpinimas (WEB, FTP - FileZilla)
+        -   Favicon pridėjimas <https://realfavicongenerator.net/>
 
 Papildomi šaltiniai
 
--   ...
+-   FTP protokolas <https://lt.wikipedia.org/wiki/FTP>
+-   FileZilla <https://filezilla-project.org/>
+-   Deployment'o pavyzdyje naudotas nemokamas hostingas <https://profreehost.com/>
 
 ## 7.5
 
