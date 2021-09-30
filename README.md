@@ -767,7 +767,7 @@ Temos
 
 -   Grid <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout>
     -   Grid zones (grid-template-areas) <https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas>
-    -   Trumpa užduotis, klasikinis layout'as - zonos. [Sprendimas](./7%20savaitė/7.4/classic-layout-zones.html).
+    -   Trumpa užduotis, klasikinis layout'as - zonos. [Turinys](./7%20savaitė/7.4/uzduotis-klasikinis-layout-grid-zones).
     -   Grid gaps <https://developer.mozilla.org/en-US/docs/Web/CSS/gap>
     -   Grid / cells alignment <https://css-tricks.com/snippets/css/complete-guide-grid/>
 -   Development environment
