@@ -790,7 +790,19 @@ Papildomi šaltiniai
 
 Temos
 
--   ...
+-   Kodo aplinkos (kaip kitaip galime rašyti HTML ir CSS)
+    -   Generuojami HTML template'ai - Handlebars <https://handlebarsjs.com/>
+    -   Handlebars playground <https://handlebarsjs.com/playground.html>
+    -   Bootstrap CSS karkasas, prototipams arba nedidėlių poreikių projektams <https://getbootstrap.com/>
+    -   Bootstrap klasikinio layout pavyzdys.
+    -   Patogesne sintakse rašomi stiliai - SCSS <https://sass-lang.com/guide>
+    -   SCSS playground <https://www.sassmeister.com/>
+    -   Frontend projekto (Node.JS ekosistemos projekto) pavyzdys
+-   Kūrimo proceso valdymas
+    -   Waterfall metodologija <https://www.workfront.com/project-management/methodologies/waterfall>
+    -   Agile and Scrum <https://www.cprime.com/resources/what-is-agile-what-is-scrum/>
+    -   Scrum <https://www.pm-partners.com.au/the-agile-journey-a-scrum-overview/>
+    -   Agile Manifestas <https://agilemanifesto.org/>, <http://agilemanifesto.org/principles.html>
 
 Papildomi šaltiniai
 
