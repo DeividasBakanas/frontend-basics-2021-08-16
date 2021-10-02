@@ -2,6 +2,20 @@
 <html>
     <head>
         <title>Navigacija į ID pažymėtą elementą</title>
+        <script>
+            window.addEventListener("load", function() {
+                const aElementai = document.querySelectorAll("ul li a");
+                const paskutinisAElementas = aElementai[aElementai.length - 1];
+
+                paskutinisAElementas.addEventListener("click", function(event) {
+                    event.preventDefault();
+                    const sekcija = document.getElementById("belekoks");
+                    sekcija.scrollIntoView({
+                        behavior: "smooth"
+                    });
+                });
+            });
+        </script>
     </head>
     <body>
         <h1 id="pradzia">

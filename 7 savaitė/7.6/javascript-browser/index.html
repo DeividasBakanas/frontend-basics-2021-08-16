@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>JavaScript kintamieji</title>
+        <script>
+            function suma(a, b, c) {
+                return a + b + c;
+            }
+
+            // Deklaruoja kintamąjį visoje programoje.
+            var x = 10;
+            // Deklaruoja kintamąjį lokaliai - bloke.
+            let y = 15;
+            // Bloke, bet nekintanti reikšmė po priskyrimo.
+            const pi = 3.14;
+
+            // Tipai
+            var simboliuEilute = "tekstas - gali būti įvairūs simboliai";
+            simboliuEilute = "mano naujai priskirtas tekstas";
+
+            const skaiciusSveikas = 15;
+            const desimtaineTrupmena = 15.546;
+            const logineReiksmeTaip = true;
+            const logineReiksmeNe = false;
+            const tusciasMasyvas = [];
+            tusciasMasyvas.push("tuscia eilute"); // ["tuscia eilute"]
+
+            const skaiciuMasyvas = [12, 15, 16, 85];
+            skaiciuMasyvas[0]; // 12
+            skaiciuMasyvas[1]; // 15
+
+            // Į masyvo galą pridėjom elementą.
+            skaiciuMasyvas.push(90); // [12, 15, 16, 85, 90]
+            skaiciuMasyvas[4]; // 90
+
+            skaiciuMasyvas[2222]; // undefined
+            const misrusMasyvas = [12, "simboliu eilute", true];
+
+            let pavadinimasKintamojo; // undefined
+            pavadinimasKintamojo = "su kažkokiu priskirtu turiniu";
+
+            const objektas = {
+                manoPirmasProperty: "Tekstas",
+                manoSkaicius: 13,
+                manoMasyvas: [1, 5, -13],
+                arFunkcionalumasIjungtas: true
+            };
+
+            const uzsakymas = {
+                Pavadinimas: "Puodelis",
+                Spalva: "Juoda",
+                Kaina: 13.99
+            };
+
+            uzsakymas.Pavadinimas; // "Puodelis"
+
+            const uzsakymai = [
+                {
+                    Pavadinimas: "Puodelis",
+                    Spalva: "Juoda",
+                    Kaina: 13.99
+                },
+                {
+                    Pavadinimas: "Rankšluostis",
+                    Spalva: "Juoda",
+                    Kaina: 9.99
+                }
+            ];
+
+            uzsakymai[0].Pavadinimas; // "Puodelis"
+
+            console.log(uzsakymai[0].Pavadinimas);
+
+            console.log(suma(12, 15, 30)); // 57
+
+            const manoKonsole = {
+                log: function(tekstasIEkrana) {
+                    console.log("Mano Konsolė: " + tekstasIEkrana);
+                }
+            };
+
+            manoKonsole.log(suma(12, 15, 30)); // "Mano Konsole: 57"
+
+            /*
+            Multi line komentaras.
+            */
+
+            const arLygu = 15 === 80; // false
+            const tikraiLygu = 15 === 15; // true
+            const arNelygu = 15 !== 20; // true
+        </script>
+    </head>
+    <body></body>
+</html>
