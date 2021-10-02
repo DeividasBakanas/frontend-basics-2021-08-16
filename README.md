@@ -799,21 +799,32 @@ Temos
     -   SCSS playground <https://www.sassmeister.com/>
     -   Frontend projekto (Node.JS ekosistemos projekto) pavyzdys
 -   Kūrimo proceso valdymas
+
     -   Waterfall metodologija <https://www.workfront.com/project-management/methodologies/waterfall>
     -   Agile and Scrum <https://www.cprime.com/resources/what-is-agile-what-is-scrum/>
     -   Scrum <https://www.pm-partners.com.au/the-agile-journey-a-scrum-overview/>
     -   Agile Manifestas <https://agilemanifesto.org/>, <http://agilemanifesto.org/principles.html>
 
-Papildomi šaltiniai
-
--   ...
-
 ## 7.6
 
 Temos
 
+-   Agile and Scrum <https://www.cprime.com/resources/what-is-agile-what-is-scrum/>
+-   Scrum <https://www.pm-partners.com.au/the-agile-journey-a-scrum-overview/>
+-   Kanban <https://www.wesquare.nl/scrum-vs-kanban-a-fair-comparison/>, <https://www.cprime.com/resources/blog/3-differences-between-scrum-and-kanban-you-need-to-know/>
 -   JavaScript pagrindai <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics>
+-   Užklausa į serverį <https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API>
+-   Git and Github <https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub>
+-   NodeJS 101 <https://dev.to/ericchapman/node-js-101-part-1-what-is-node-js-1529>
 
 Papildomi šaltiniai
 
--   ...
+-   Azure DevOps <https://azure.microsoft.com/en-us/services/devops/>
+-   Atlassian Jira <https://www.atlassian.com/software/jira>
+-   Github Hello World <https://guides.github.com/activities/hello-world/>
+-   More about Head <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML>
+-   Cumulative Flow Diagram <https://kanbanize.com/kanban-resources/kanban-analytics/cumulative-flow-diagram>
+-   Retrospektyvoms - Easy Retro <https://easyretro.io/>
+-   Tools and Testing <https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing>
+-   JavaScript <https://developer.mozilla.org/en-US/docs/Learn/JavaScript>
+-   React <https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started>
